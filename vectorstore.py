@@ -23,7 +23,7 @@ def _create_vectorstore():
         )
         for word in words
     ]
-    print(f"Created {len(documents)} documents from the database.")
+    print(f"Created {len(documents)} documents from the database {Config.DB_PATH}.")
     embeddings = OllamaEmbeddings(model=Config.OLLAMA_EMBEDDING_MODEL)
     print(f"Creating Chroma vector store at {Config.CHROMA_DB_PATH}...")
     vectorstore = Chroma.from_documents(

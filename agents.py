@@ -41,7 +41,7 @@ def name_suggestion_tool(keyword: str) -> str:
     it will generate an alternative."""
     vectorstore = get_or_create_vectorstore()
     retriever = vectorstore.as_retriever()
-    llm = ChatOllama(model=Config.OLLAMA_LLM_MODEL)
+    llm = ChatOllama(model=Config.OLLAMA_LLM_MODEL, temperature=0)
 
     # Check if there's an "avoid" instruction in the keyword
     avoid_note = ""
@@ -53,21 +53,40 @@ def name_suggestion_tool(keyword: str) -> str:
     Ensure the description is concise (1 sentence) and clearly explains the meaning of the keyword.
     Ensure the abbreviation is consistent in style and format with the provided examples.{avoid_note}
 
-    CRITICAL GENERAL RULES:
+    GENERAL RULES:
     1. Both Keywords and Abbreviations must have uppercase initial. No more uppercase letters are permitted. For example, "ESC" or "esc" are not correct; "Esc" must be defined instead.
+    2. The abbreviation MUST be UNIQUE and DIFFERENT from any already mentioned as taken in the context.
 
-    CRITICAL ABBREVIATION PREFERENCE (study the context examples carefully):
-    1. Word ending with "-ing" will have "-g" at the end of the abbreviation
-       Examples: "Closing" → "Clsg"
-    2. Word ending with "-ed" will have "-d" at the end of the abbreviation
-       Examples: "Estimated" → "Estimd"
-    3. Word ending with "-ion" will have "-n" at the end of the abbreviation
-       Examples: "Estimation" → "Estimn"
-    4. Word ending with "-tor" or "-er" will have "-r" at the end of the abbreviation
-       Examples: "Estimator" → "Estimr"
-    5. Remove vowels from the middle of words to shorten them
-    6. Preserve consonants that maintain recognizability
-    7. Study the retrieved context examples for patterns related to the keyword
+    ABBREVIATION METHODOLOGY (CRITICAL - Follow this exact order):
+    
+    STEP 1: FIND SIMILAR WORDS IN CONTEXT (HIGHEST PRIORITY)
+    - Search the retrieved context for keywords that share the same root or base word as the new keyword
+    - Identify the abbreviation pattern used for those similar words
+    - Use that pattern as the foundation for your abbreviation
+    
+    EXAMPLES OF SIMILARITY-BASED ABBREVIATION:
+    - "Clear" → "Clr", "Cleared" → "Clrd", so "Clearing" should follow → "Clrg"
+    - "Estimate" base uses "Estim-", so "Estimated" → "Estimd", "Estimation" → "Estimn", "Estimator" → "Estimr"
+    - "Control" → "Ctl", "Controlled" → "Ctld", "Controller" → "Ctlr"
+    
+    STEP 2: APPLY SUFFIX RULES (After establishing the base from similar words)
+    Once you have identified the base abbreviation from similar words in the context, apply these suffix rules:
+    1. Words ending with "-ing" → append "-g" to the base abbreviation
+       Example: "Clear" → "Clr", so "Clearing" → "Clrg"
+    2. Words ending with "-ed" → append "-d" to the base abbreviation
+       Example: "Clear" → "Clr", so "Cleared" → "Clrd"
+    3. Words ending with "-ion" → append "-n" to the base abbreviation
+       Example: "Estimat-" → "Estim-", so "Estimation" → "Estimn"
+    4. Words ending with "-tor" or "-er" → append "-r" to the base abbreviation
+       Example: "Estimat-" → "Estim-", so "Estimator" → "Estimr"
+    
+    STEP 3: IF NO SIMILAR WORDS EXIST (Only if Steps 1-2 cannot be applied)
+    Create a new base abbreviation by:
+    - Removing vowels from the middle of the word while preserving recognizability
+    - Keeping consonants that maintain the word's identity
+    - Then apply the suffix rules from Step 2 if applicable
+    
+    CRITICAL INSTRUCTION: Always explain your reasoning by first identifying any similar words from the context, then showing how you derived the abbreviation from those patterns.
 
     Context: {{context}}
 
@@ -76,7 +95,7 @@ def name_suggestion_tool(keyword: str) -> str:
     Please provide the suggested abbreviation, description, and explanation in the following format:
     Abbreviation: [Your suggested abbreviation - must be UNIQUE and DIFFERENT from any mentioned as already taken]
     Description: [Your suggested description]
-    Explanation: [Explain why you chose this abbreviation, referencing the similar examples from the context that influenced your decision. Mention specific patterns or conventions you followed, especially regarding suffix handling.]
+    Explanation: [MUST start by identifying similar words from the context (if any exist), then explain how you derived the base abbreviation from those patterns, and finally describe which suffix rule you applied. Be specific about the similar words you found and their abbreviations.]
     """.format(avoid_note=avoid_note)
     
     prompt = ChatPromptTemplate.from_template(template)
@@ -96,7 +115,7 @@ tools: List[tool] = [
         name_suggestion_tool,
     ]
 
-llm = ChatOllama(model=Config.OLLAMA_LLM_MODEL)
+llm = ChatOllama(model=Config.OLLAMA_LLM_MODEL, temperature=0)
 
 # Agent Prompt
 template = """You are an expert AI assistant for creating standardized technical names.
