@@ -1,0 +1,28 @@
+# Core LangChain
+langchain
+langchain-community
+langchain-core
+
+
+# LLM Providers
+# langchain-openai      # For OpenAI
+langchain-ollama      # For Ollama
+# langchain-huggingface # For HuggingFace
+# langchain-anthropic    # For Anthropic
+# langchain-google-genai  # For Google GenAI
+# langchain-google-community
+# google-genai
+
+# Vector Stores
+langchain-chroma
+
+
+# Optional but recommended
+# tiktoken              # Token counting
+# python-dotenv         # Environment variable management
+rich                  # Rich text formatting
+# requests              # HTTP requests
+pydantic              # Data validation
+pydantic-settings     # Settings management
+# pandas                # Data manipulation
+

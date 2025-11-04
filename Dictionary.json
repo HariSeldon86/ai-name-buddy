@@ -1,0 +1,5502 @@
+[
+    {
+        "keyword": "0",
+        "abbreviation": "0",
+        "description": "Original AUTOSAR pair. Index 0. This keyword is used to express the number zero in form of an index"
+    },
+    {
+        "keyword": "1",
+        "abbreviation": "1",
+        "description": "Original AUTOSAR pair. Index 1. This keyword is used to express the number one in form of an index"
+    },
+    {
+        "keyword": "2",
+        "abbreviation": "2",
+        "description": "Original AUTOSAR pair. Index 2. This keyword is used to express the number two in form of an index"
+    },
+    {
+        "keyword": "3",
+        "abbreviation": "3",
+        "description": "Original AUTOSAR pair. Index 3. This keyword is used to express the number three in form of an index"
+    },
+    {
+        "keyword": "4",
+        "abbreviation": "4",
+        "description": "Original AUTOSAR pair. Index 4. This keyword is used to express the number four in form of an index"
+    },
+    {
+        "keyword": "5",
+        "abbreviation": "5",
+        "description": "Original AUTOSAR pair. Index 5. This keyword is used to express the number five in form of an index"
+    },
+    {
+        "keyword": "6",
+        "abbreviation": "6",
+        "description": "Original AUTOSAR pair. Index 6. This keyword is used to express the number six in form of an index"
+    },
+    {
+        "keyword": "7",
+        "abbreviation": "7",
+        "description": "Original AUTOSAR pair. Index 7. This keyword is used to express the number seven in form of an index"
+    },
+    {
+        "keyword": "8",
+        "abbreviation": "8",
+        "description": "Original AUTOSAR pair. Index 8. This keyword is used to express the number eight in form of an index"
+    },
+    {
+        "keyword": "9",
+        "abbreviation": "9",
+        "description": "Original AUTOSAR pair. Index 9. This keyword is used to express the number nine in form of an index"
+    },
+    {
+        "keyword": "Abs",
+        "abbreviation": "Abs",
+        "description": "Original AUTOSAR pair. antilock braking system"
+    },
+    {
+        "keyword": "Absolute",
+        "abbreviation": "Absv",
+        "description": "Original AUTOSAR pair. absolute value"
+    },
+    {
+        "keyword": "Ac",
+        "abbreviation": "Ac",
+        "description": "Original AUTOSAR pair. alternating current/voltage"
+    },
+    {
+        "keyword": "Acc",
+        "abbreviation": "Acc",
+        "description": "Original AUTOSAR pair. Adaptive Cruise Control"
+    },
+    {
+        "keyword": "Acceleration",
+        "abbreviation": "A",
+        "description": "Original AUTOSAR pair. This keyword is used to give the physical value of acceleration. It is the value of gaining speed."
+    },
+    {
+        "keyword": "Accelerator",
+        "abbreviation": "Accr",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Access",
+        "abbreviation": "Acs",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Accommodation",
+        "abbreviation": "Acco",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Acknowledge",
+        "abbreviation": "Ack",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Acknowledged",
+        "abbreviation": "Ackd",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Acoustic",
+        "abbreviation": "Aco",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Acquire",
+        "abbreviation": "Acq",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Acquired",
+        "abbreviation": "Acqd",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Acquisition",
+        "abbreviation": "Acqn",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Action",
+        "abbreviation": "Actn",
+        "description": "Original AUTOSAR pair. action for function calls. The keyword ACTION is used to express function calls. All ACTION-calls are collected in a document 'action _collection.xls' in the Naming-folder."
+    },
+    {
+        "keyword": "Activate",
+        "abbreviation": "Acvt",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Activated",
+        "abbreviation": "Acvd",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Activation",
+        "abbreviation": "Acvn",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Active",
+        "abbreviation": "Acv",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Actual",
+        "abbreviation": "Act",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Actuator",
+        "abbreviation": "Actr",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Adapter",
+        "abbreviation": "Adpr",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Adaptive",
+        "abbreviation": "Adpv",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Additional",
+        "abbreviation": "Addl",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Additive",
+        "abbreviation": "Add",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Address",
+        "abbreviation": "Adr",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Adhesion",
+        "abbreviation": "Adh",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Adjust",
+        "abbreviation": "Adj",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Adjustment",
+        "abbreviation": "Adjmt",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Advance",
+        "abbreviation": "Adv",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "After",
+        "abbreviation": "Aft",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Aging",
+        "abbreviation": "Agi",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Aid",
+        "abbreviation": "Aid",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Air",
+        "abbreviation": "Air",
+        "description": "Original AUTOSAR pair. Also used as definition of \"fresh gas\""
+    },
+    {
+        "keyword": "Airbag",
+        "abbreviation": "Airb",
+        "description": "Original AUTOSAR pair. airbag"
+    },
+    {
+        "keyword": "Alarm",
+        "abbreviation": "Alrm",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Allowable",
+        "abbreviation": "Allwbl",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Allowed",
+        "abbreviation": "Allwd",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Alternative",
+        "abbreviation": "Altv",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Alternator",
+        "abbreviation": "Alt",
+        "description": "Original AUTOSAR pair. alternator"
+    },
+    {
+        "keyword": "Altitude",
+        "abbreviation": "Alti",
+        "description": "Original AUTOSAR pair. in case of class = \"Physical meaning\": Unit must be [m]"
+    },
+    {
+        "keyword": "Ambient",
+        "abbreviation": "Amb",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Amount",
+        "abbreviation": "Amnt",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Ampere",
+        "abbreviation": "Ampr",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Amplitude",
+        "abbreviation": "Amp",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Amt",
+        "abbreviation": "Amt",
+        "description": "Original AUTOSAR pair. automated manual transmission. use: LV_PUMP_AMT_ON activation of hydraulic pump for AMT-actuator supply"
+    },
+    {
+        "keyword": "Analog",
+        "abbreviation": "An",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "And",
+        "abbreviation": "And",
+        "description": "Original AUTOSAR pair. Preposition"
+    },
+    {
+        "keyword": "Angle",
+        "abbreviation": "Ag",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Angular",
+        "abbreviation": "Agr",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Anti",
+        "abbreviation": "Anti",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Application",
+        "abbreviation": "Appl",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Arbitrated",
+        "abbreviation": "Arbd",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Arbitration",
+        "abbreviation": "Arbn",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Area",
+        "abbreviation": "Ar",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Armature",
+        "abbreviation": "Arm",
+        "description": "Original AUTOSAR pair. This keyword described the constructional element of an armature. It should be used e.g. for calculations of the armature movement of a coil actuator."
+    },
+    {
+        "keyword": "Array",
+        "abbreviation": "Ary",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Ash",
+        "abbreviation": "Ash",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Asr",
+        "abbreviation": "Asr",
+        "description": "Original AUTOSAR pair. anti slip regulation (Acceleration Slip Control)"
+    },
+    {
+        "keyword": "Assist",
+        "abbreviation": "Assi",
+        "description": "Original AUTOSAR pair. assistant (assistance). this keyword expresses the availability of an electronic assistant or assistance for a component or system. For example: the electronic brake assistant."
+    },
+    {
+        "keyword": "Assistant",
+        "abbreviation": "Asi",
+        "description": "Original AUTOSAR pair. assistant (assistance). this keyword expresses the availability of an electronic assistant or assistance for a component or system. For example: the electronic brake assistant."
+    },
+    {
+        "keyword": "Assisted",
+        "abbreviation": "Assid",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Asw",
+        "abbreviation": "Asw",
+        "description": "Original AUTOSAR pair. Application Software"
+    },
+    {
+        "keyword": "Asynchronous",
+        "abbreviation": "Async",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "At",
+        "abbreviation": "At",
+        "description": "Original AUTOSAR pair. Preposition for location, time, presence"
+    },
+    {
+        "keyword": "Ata",
+        "abbreviation": "Ata",
+        "description": "Original AUTOSAR pair. American Trucking Associations Diagnostics Bus. The SAE (Society of Automotive Engineers) in conjunction with the ATA (American Trucking Associations) established the J1708/J1587 diagnostics bus for trucks"
+    },
+    {
+        "keyword": "Attenuator",
+        "abbreviation": "Attn",
+        "description": "Original AUTOSAR pair. The attenuator switch is a part of the power stage which drives the piezo injectors."
+    },
+    {
+        "keyword": "Authorization",
+        "abbreviation": "Authn",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Authorize",
+        "abbreviation": "Auth",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Automatic",
+        "abbreviation": "Aut",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Auxiliary",
+        "abbreviation": "Aux",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Available",
+        "abbreviation": "Avl",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Awd",
+        "abbreviation": "Awd",
+        "description": "Original AUTOSAR pair. All Wheel Drive"
+    },
+    {
+        "keyword": "Axis",
+        "abbreviation": "Axis",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Axle",
+        "abbreviation": "Axle",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Back",
+        "abbreviation": "Back",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Backlit",
+        "abbreviation": "Backlt",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Backlite",
+        "abbreviation": "Backlite",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Balance",
+        "abbreviation": "Bal",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Balancing",
+        "abbreviation": "Baln",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Bank",
+        "abbreviation": "Bank",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Bar",
+        "abbreviation": "Bar",
+        "description": "Original AUTOSAR pair. As unit of measure"
+    },
+    {
+        "keyword": "Barometric",
+        "abbreviation": "Baro",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Base",
+        "abbreviation": "Bas",
+        "description": "Original AUTOSAR pair. Preprocessed sensor data, model free, abstraction of the sensor hardware."
+    },
+    {
+        "keyword": "Battery",
+        "abbreviation": "Bat",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Bdc",
+        "abbreviation": "Bdc",
+        "description": "Original AUTOSAR pair. bottom dead center"
+    },
+    {
+        "keyword": "Beginning",
+        "abbreviation": "Beg",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Belt",
+        "abbreviation": "Blt",
+        "description": "Original AUTOSAR pair. seat belt. this keyword is used to express the seat belt, which is a kind of security rope to keep the passenger in the seat in case of an accident."
+    },
+    {
+        "keyword": "Bench",
+        "abbreviation": "Bench",
+        "description": "Original AUTOSAR pair. bench mode. During OBD I / OBD II diagnoses and error management and tuning, validation the bench mode has to be used so as to force some failures."
+    },
+    {
+        "keyword": "Bi",
+        "abbreviation": "Bi",
+        "description": "Original AUTOSAR pair. Prefix for double"
+    },
+    {
+        "keyword": "Bit",
+        "abbreviation": "Bit",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Blind",
+        "abbreviation": "Bli",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Blink",
+        "abbreviation": "Blink",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Block",
+        "abbreviation": "Blk",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Blocked",
+        "abbreviation": "Blkd",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Bls",
+        "abbreviation": "Bls",
+        "description": "Original AUTOSAR pair. brake light switch"
+    },
+    {
+        "keyword": "Board",
+        "abbreviation": "Bd",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Body",
+        "abbreviation": "Body",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Boolean",
+        "abbreviation": "Bool",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Boost",
+        "abbreviation": "Boost",
+        "description": "Original AUTOSAR pair. A general expression to increase performance for a short period of time or to give a higher output. e.g. to give high output or to voltage support the combustion engine with additional torque (e. g. with a Integrated Starter Generator) for acceleration"
+    },
+    {
+        "keyword": "Boot",
+        "abbreviation": "Boot",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Bottom",
+        "abbreviation": "Botm",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Bounce",
+        "abbreviation": "Bnce",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Bracket",
+        "abbreviation": "Brkt",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Brake",
+        "abbreviation": "Brk",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Bridge",
+        "abbreviation": "Brdg",
+        "description": "Original AUTOSAR pair. bridge contact"
+    },
+    {
+        "keyword": "Brightness",
+        "abbreviation": "Bri",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Bsw",
+        "abbreviation": "Bsw",
+        "description": "Original AUTOSAR pair. Basic Software. This keyword is used to describe a certain relationship with functional the infrastructural part of the software. Do not mix up with INFR which gives the architectural relationship, e.g. in an Action call."
+    },
+    {
+        "keyword": "Buffer",
+        "abbreviation": "Buf",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Burner",
+        "abbreviation": "Brnr",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Burning",
+        "abbreviation": "Brng",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Bus",
+        "abbreviation": "Bus",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Button",
+        "abbreviation": "Btn",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Buzzer",
+        "abbreviation": "Buz",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "By",
+        "abbreviation": "By",
+        "description": "Original AUTOSAR pair. Preposition"
+    },
+    {
+        "keyword": "Bypass",
+        "abbreviation": "Byp",
+        "description": "Original AUTOSAR pair. BYP shall describe a component of a bypass."
+    },
+    {
+        "keyword": "Byte",
+        "abbreviation": "Byte",
+        "description": "Original AUTOSAR pair. byte"
+    },
+    {
+        "keyword": "Cabin",
+        "abbreviation": "Cbn",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Cac",
+        "abbreviation": "Cac",
+        "description": "Original AUTOSAR pair. Charged Air Cooler"
+    },
+    {
+        "keyword": "Calculated",
+        "abbreviation": "Clcd",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Calculation",
+        "abbreviation": "Clcn",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Calibration",
+        "abbreviation": "Cal",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Call",
+        "abbreviation": "Call",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Camshaft",
+        "abbreviation": "Camsft",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Can",
+        "abbreviation": "Can",
+        "description": "Original AUTOSAR pair. Controller Area Network"
+    },
+    {
+        "keyword": "Cancel",
+        "abbreviation": "Cncl",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Cancelled",
+        "abbreviation": "Cncld",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Candela",
+        "abbreviation": "Cd",
+        "description": "Original AUTOSAR pair. Unit of measure of luminous intensity"
+    },
+    {
+        "keyword": "Canister",
+        "abbreviation": "Cstr",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Capability",
+        "abbreviation": "Cpby",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Capacity",
+        "abbreviation": "Cp",
+        "description": "Original AUTOSAR pair. this keyword is used to express the Physical Meaning of a capacity (e.g. thermal capacity of oil)"
+    },
+    {
+        "keyword": "Car",
+        "abbreviation": "Car",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Carried",
+        "abbreviation": "Carrd",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Case",
+        "abbreviation": "Case",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Catalyst",
+        "abbreviation": "Cat",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Center",
+        "abbreviation": "Ce",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Centigrade",
+        "abbreviation": "Cgrd",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Central",
+        "abbreviation": "Cen",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Chamber",
+        "abbreviation": "Chmb",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Change",
+        "abbreviation": "Chg",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Changeable",
+        "abbreviation": "Chgb",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Channel",
+        "abbreviation": "Chn",
+        "description": "Original AUTOSAR pair. This keyword is used to express a channel. A channel is a defined port (of a bundle of ports) of a data line."
+    },
+    {
+        "keyword": "Characteristic",
+        "abbreviation": "Chartc",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Charcoal",
+        "abbreviation": "Chrcl",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Charge",
+        "abbreviation": "Ch",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Charger",
+        "abbreviation": "Chrgr",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Chassis",
+        "abbreviation": "Chassis",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Check",
+        "abbreviation": "Chk",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Checksum",
+        "abbreviation": "Cks",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Child",
+        "abbreviation": "Chd",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Choke",
+        "abbreviation": "Choke",
+        "description": "Original AUTOSAR pair. Choking, choke line. this keyword is used to describe the appearance of choking effects in an (air-)stream, e.g. at the choke line of a turbocharger (which is a characteristic parameter)"
+    },
+    {
+        "keyword": "Circuit",
+        "abbreviation": "Circ",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Circumference",
+        "abbreviation": "Circum",
+        "description": "Original AUTOSAR pair. Used in the meaning of the wheel circumference CIR_WHEEL"
+    },
+    {
+        "keyword": "Circumferential",
+        "abbreviation": "Circuml",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Clamp",
+        "abbreviation": "Clmp",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Clamped",
+        "abbreviation": "Clmpd",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Class",
+        "abbreviation": "Class",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Cleaner",
+        "abbreviation": "Clnr",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Cleaning",
+        "abbreviation": "Clng",
+        "description": "Original AUTOSAR pair. Cleaning. this keyword describes the the action of cleaning e.g. a component."
+    },
+    {
+        "keyword": "Clear",
+        "abbreviation": "Clr",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Cleared",
+        "abbreviation": "Clrd",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Climatisation",
+        "abbreviation": "Clima",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Clock",
+        "abbreviation": "Clk",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Close",
+        "abbreviation": "Cls",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Closed",
+        "abbreviation": "Clsd",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Closure",
+        "abbreviation": "Clsr",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Clutch",
+        "abbreviation": "Clu",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Cng",
+        "abbreviation": "Cng",
+        "description": "Original AUTOSAR pair. compressed natural gas"
+    },
+    {
+        "keyword": "Co",
+        "abbreviation": "Co",
+        "description": "Original AUTOSAR pair. carbon monoxide. carbon monoxide is one of the main exhaust gas pollutants of a combustion engine"
+    },
+    {
+        "keyword": "Coasting",
+        "abbreviation": "Coast",
+        "description": "Original AUTOSAR pair. situation of vehicle, where the clutch is kept open and the vehicle is moving by its own inertia, e.g. rolling downhill (coast driving state of a vehicle is a typical transmission / clutch function)."
+    },
+    {
+        "keyword": "Coated",
+        "abbreviation": "Cot",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Code",
+        "abbreviation": "Cod",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Coefficient",
+        "abbreviation": "Coeff",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Cog",
+        "abbreviation": "Cog",
+        "description": "Original AUTOSAR pair. Center of Gravity"
+    },
+    {
+        "keyword": "Coil",
+        "abbreviation": "Coil",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Cold",
+        "abbreviation": "Cold",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Collector",
+        "abbreviation": "Coll",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Collision",
+        "abbreviation": "Cllsn",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Column",
+        "abbreviation": "Col",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Combustion",
+        "abbreviation": "Cmb",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Comfort",
+        "abbreviation": "Cmft",
+        "description": "Original AUTOSAR pair. comfort. this keyword is used to express something as comfortable or convenient"
+    },
+    {
+        "keyword": "Coming",
+        "abbreviation": "Cmng",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Command",
+        "abbreviation": "Cmd",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Common",
+        "abbreviation": "Cmn",
+        "description": "Original AUTOSAR pair. common. for common environmental data (stored with all failures of one project)."
+    },
+    {
+        "keyword": "Communication",
+        "abbreviation": "Com",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Commutation",
+        "abbreviation": "Cmu",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Comparison",
+        "abbreviation": "Comp",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Compartment",
+        "abbreviation": "Cmptmt",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Compensation",
+        "abbreviation": "Cmp",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Complement",
+        "abbreviation": "Cpl",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Complete",
+        "abbreviation": "Cmpl",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Component",
+        "abbreviation": "Cpt",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Compression",
+        "abbreviation": "Cmpn",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Compressor",
+        "abbreviation": "Cmpr",
+        "description": "Original AUTOSAR pair. This keyword is used to express a component producing a compressed (= with raised pressure) working medium, e.g. air, refrigerant."
+    },
+    {
+        "keyword": "Concentration",
+        "abbreviation": "Conc",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Condition",
+        "abbreviation": "Cdn",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Conditioner",
+        "abbreviation": "Cdnr",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Conditioning",
+        "abbreviation": "Cdng",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Configuration",
+        "abbreviation": "Cfg",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Configured",
+        "abbreviation": "Cfgd",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Confirmation",
+        "abbreviation": "Cfm",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Confirmed",
+        "abbreviation": "Cfmd",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Constant",
+        "abbreviation": "Con",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Consumption",
+        "abbreviation": "Cns",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Continuous",
+        "abbreviation": "Contns",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Control",
+        "abbreviation": "Ctl",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Controlled",
+        "abbreviation": "Ctld",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Controller",
+        "abbreviation": "Ctlr",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Convection",
+        "abbreviation": "Cnvc",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Conversion",
+        "abbreviation": "Cnvn",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Converter",
+        "abbreviation": "Cnvr",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Convertible",
+        "abbreviation": "Cnvtb",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Coolant",
+        "abbreviation": "Coolt",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Cooling",
+        "abbreviation": "Coolg",
+        "description": "Original AUTOSAR pair. This keyword is used to describe the cooling system e.g. of the engine. A cooling request can be fulfilled by air, coolant, ECF, CWP, etc."
+    },
+    {
+        "keyword": "Coordinated",
+        "abbreviation": "Coord",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Coordination",
+        "abbreviation": "Coorn",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Coordinator",
+        "abbreviation": "Coorr",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Copy",
+        "abbreviation": "Copy",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Corrected",
+        "abbreviation": "Corrd",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Correction",
+        "abbreviation": "Corrn",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Correlation",
+        "abbreviation": "Corrln",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Coulomb",
+        "abbreviation": "C",
+        "description": "Original AUTOSAR pair. Unit of measure for Electric charge"
+    },
+    {
+        "keyword": "Count",
+        "abbreviation": "Ct",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Counter",
+        "abbreviation": "Ctr",
+        "description": "Original AUTOSAR pair. Also applicable to running indexes."
+    },
+    {
+        "keyword": "Countershaft",
+        "abbreviation": "Ctrsft",
+        "description": "Original AUTOSAR pair. counter shaft. the keyword CNTS for a counter shaft is used to express the existence of this mechanical component."
+    },
+    {
+        "keyword": "Country",
+        "abbreviation": "Ctry",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Coupled",
+        "abbreviation": "Coupld",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Coupling",
+        "abbreviation": "Coupl",
+        "description": "Original AUTOSAR pair. It is the keyword for any linkage of software modules or functionalities or to express a kind of strict connection between two elsewise not linked parts."
+    },
+    {
+        "keyword": "Cpu",
+        "abbreviation": "Cpu",
+        "description": "Original AUTOSAR pair. central processing unit"
+    },
+    {
+        "keyword": "Crankcase",
+        "abbreviation": "Crkcs",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Crankshaft",
+        "abbreviation": "Crksft",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Crash",
+        "abbreviation": "Crash",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Crawl",
+        "abbreviation": "Crawl",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Criteria",
+        "abbreviation": "Cta",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Critical",
+        "abbreviation": "Crit",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Cruise",
+        "abbreviation": "Crs",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Cubed",
+        "abbreviation": "Cubd",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Cubic",
+        "abbreviation": "Cub",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Current",
+        "abbreviation": "Cur",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Customer",
+        "abbreviation": "Cus",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Cut",
+        "abbreviation": "Cut",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Cutoff",
+        "abbreviation": "Cutoff",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Cvt",
+        "abbreviation": "Cvt",
+        "description": "Original AUTOSAR pair. continuous variable transmission"
+    },
+    {
+        "keyword": "Cycle",
+        "abbreviation": "Cyc",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Cylinder",
+        "abbreviation": "Cyl",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Damper",
+        "abbreviation": "Dampr",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Damping",
+        "abbreviation": "Dampg",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Das",
+        "abbreviation": "Das",
+        "description": "Original AUTOSAR pair. Driver Assistant Steering"
+    },
+    {
+        "keyword": "Dashboard",
+        "abbreviation": "Dshb",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Dashpot",
+        "abbreviation": "Dash",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Data",
+        "abbreviation": "Da",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Date",
+        "abbreviation": "Date",
+        "description": "Original AUTOSAR pair. date, point of time. This keyword is used to refer to a precise moment or a specific date. This can be a \"time stamp\" or a calendar date as well. "
+    },
+    {
+        "keyword": "Dc",
+        "abbreviation": "Dc",
+        "description": "Original AUTOSAR pair. direct current/voltage"
+    },
+    {
+        "keyword": "Dcc",
+        "abbreviation": "Dcc",
+        "description": "Original AUTOSAR pair. distance cruise control. In case of cruise control on, the distance to the vehicle ahead is measured. If the distance falls below a defined limit, the vehicle speed is reduced automatically."
+    },
+    {
+        "keyword": "Dct",
+        "abbreviation": "Dct",
+        "description": "Original AUTOSAR pair. Dual Clutch Transmission"
+    },
+    {
+        "keyword": "Deactivation",
+        "abbreviation": "Deac",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Deadband",
+        "abbreviation": "Dbnd",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Debounce",
+        "abbreviation": "Deb",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Deceleration",
+        "abbreviation": "Dece",
+        "description": "Original AUTOSAR pair. deceleration. formerly DEACC introduced by Mr. Kunz"
+    },
+    {
+        "keyword": "Decrease",
+        "abbreviation": "Dec",
+        "description": "Original AUTOSAR pair. decrease, decrement. this keyword is used to express the stepwise descent of a value or counter.   "
+    },
+    {
+        "keyword": "Default",
+        "abbreviation": "Dft",
+        "description": "Original AUTOSAR pair. default"
+    },
+    {
+        "keyword": "Defective",
+        "abbreviation": "Dfct",
+        "description": "Original AUTOSAR pair. defueling. It shall be used to describe the action of taking fuel out of the tank."
+    },
+    {
+        "keyword": "Defueling",
+        "abbreviation": "Defu",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Degree",
+        "abbreviation": "Deg",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Delay",
+        "abbreviation": "Dly",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Delta",
+        "abbreviation": "Delta",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Demand",
+        "abbreviation": "Dmd",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Density",
+        "abbreviation": "Dens",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Depression",
+        "abbreviation": "Dep",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Desired",
+        "abbreviation": "Des",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Detected",
+        "abbreviation": "Detd",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Detection",
+        "abbreviation": "Detn",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Deviation",
+        "abbreviation": "De",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Device",
+        "abbreviation": "Dev",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Dew",
+        "abbreviation": "Dew",
+        "description": "Original AUTOSAR pair. Dew Point"
+    },
+    {
+        "keyword": "Diagnosis",
+        "abbreviation": "Diag",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Diagnostic",
+        "abbreviation": "Diagc",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Diameter",
+        "abbreviation": "Diam",
+        "description": "Original AUTOSAR pair. This name describes the component size, e.g. of driving wheels"
+    },
+    {
+        "keyword": "Diesel",
+        "abbreviation": "Dsl",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Difference",
+        "abbreviation": "Dif",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Differential",
+        "abbreviation": "Dftl",
+        "description": "Original AUTOSAR pair. drive train context"
+    },
+    {
+        "keyword": "Digital",
+        "abbreviation": "Dig",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Diluition",
+        "abbreviation": "Dil",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Dim",
+        "abbreviation": "Dim",
+        "description": "Original AUTOSAR pair. used as compound with Light"
+    },
+    {
+        "keyword": "Direction",
+        "abbreviation": "Dir",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Directory",
+        "abbreviation": "Dire",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Disable",
+        "abbreviation": "Di",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Disappear",
+        "abbreviation": "Disa",
+        "description": "Original AUTOSAR pair. disappear. used, in order to define a state of failure: \"disappeared failure\""
+    },
+    {
+        "keyword": "Discharge",
+        "abbreviation": "Dcha",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Discrete",
+        "abbreviation": "Dis",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Disk",
+        "abbreviation": "Dsk",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Displacement",
+        "abbreviation": "Dpl",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Display",
+        "abbreviation": "Disp",
+        "description": "Original AUTOSAR pair. In both meanings, the display (Component) and to display (Characteristic)"
+    },
+    {
+        "keyword": "Displayed",
+        "abbreviation": "Dispd",
+        "description": "Original AUTOSAR pair. In both meanings, the display (Component) and to display (Characteristic)."
+    },
+    {
+        "keyword": "Distance",
+        "abbreviation": "Dst",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Distribution",
+        "abbreviation": "Dibtn",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Division",
+        "abbreviation": "Div",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Door",
+        "abbreviation": "Door",
+        "description": "Original AUTOSAR pair. use: LV_DOOR_OPEN driver door is open"
+    },
+    {
+        "keyword": "Down",
+        "abbreviation": "Dwn",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Downhill",
+        "abbreviation": "Dwnhl",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Downstream",
+        "abbreviation": "Ds",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Dprt",
+        "abbreviation": "Dprt",
+        "description": "Original AUTOSAR pair. Derivative part of a control structure"
+    },
+    {
+        "keyword": "Drag",
+        "abbreviation": "Drg",
+        "description": "Original AUTOSAR pair. resistance, caused by mechanical, aerodynamical of topographical influences, being effective against a movement"
+    },
+    {
+        "keyword": "Drift",
+        "abbreviation": "Drift",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Drive",
+        "abbreviation": "Drv",
+        "description": "Original AUTOSAR pair. drive (gear engaged)"
+    },
+    {
+        "keyword": "Driver",
+        "abbreviation": "Drvr",
+        "description": "Original AUTOSAR pair. Driver of the vehicle."
+    },
+    {
+        "keyword": "Drivetrain",
+        "abbreviation": "Dt",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Driving",
+        "abbreviation": "Drvg",
+        "description": "Original AUTOSAR pair. Action of driving the vehicle."
+    },
+    {
+        "keyword": "Drop",
+        "abbreviation": "Drp",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Dry",
+        "abbreviation": "Dry",
+        "description": "Original AUTOSAR pair. dry. dry is the opposite of lubricated in case of friction"
+    },
+    {
+        "keyword": "Dual",
+        "abbreviation": "Dual",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Dummy",
+        "abbreviation": "Dummy",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Duration",
+        "abbreviation": "Dur",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Duty",
+        "abbreviation": "Duty",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Dynamic",
+        "abbreviation": "Dyn",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Dynamometer",
+        "abbreviation": "Dyno",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Economy",
+        "abbreviation": "Eco",
+        "description": "Original AUTOSAR pair. economy. related to the detection of driver type either an economy/comfort oriented or a sportive/power requesting driver can be distinguished."
+    },
+    {
+        "keyword": "Ecu",
+        "abbreviation": "Ecu",
+        "description": "Original AUTOSAR pair. electronic control unit"
+    },
+    {
+        "keyword": "Edge",
+        "abbreviation": "Edge",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Edit",
+        "abbreviation": "Edit",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Effective",
+        "abbreviation": "Efc",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Efficiency",
+        "abbreviation": "Eff",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Egr",
+        "abbreviation": "Egr",
+        "description": "Original AUTOSAR pair. exhaust gas recirculation"
+    },
+    {
+        "keyword": "Ehb",
+        "abbreviation": "Ehb",
+        "description": "Original AUTOSAR pair. electro hydraulic brake. ECU get CAN messages from EHB system."
+    },
+    {
+        "keyword": "Elapsed",
+        "abbreviation": "Elpd",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Electric",
+        "abbreviation": "Elt",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Electrical",
+        "abbreviation": "Eltl",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Electronic",
+        "abbreviation": "Eltc",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Electronically",
+        "abbreviation": "Eltcly",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Electropneumatic",
+        "abbreviation": "Eltpnm",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Element",
+        "abbreviation": "Elm",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Emission",
+        "abbreviation": "Emi",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Emulated",
+        "abbreviation": "Emuld",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Emulation",
+        "abbreviation": "Emuln",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Enable",
+        "abbreviation": "Ena",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Enabled",
+        "abbreviation": "Enad",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Enabling",
+        "abbreviation": "Enag",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "End",
+        "abbreviation": "End",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Energy",
+        "abbreviation": "Egy",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Engaged",
+        "abbreviation": "Engd",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Engagement",
+        "abbreviation": "Engg",
+        "description": "Original AUTOSAR pair. engagement. to express the situation of engaging e.g. a gear from neutral position / transmission gutter until synchronisation performed."
+    },
+    {
+        "keyword": "Engine",
+        "abbreviation": "Eng",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Enhanced",
+        "abbreviation": "Enhd",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Enhancement",
+        "abbreviation": "Enht",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Enrichment",
+        "abbreviation": "Enchm",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Entry",
+        "abbreviation": "Entry",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Environmental",
+        "abbreviation": "Envtl",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Epb",
+        "abbreviation": "Epb",
+        "description": "Original AUTOSAR pair. Electric Parking Brake"
+    },
+    {
+        "keyword": "Equal",
+        "abbreviation": "Equ",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Equipment",
+        "abbreviation": "Equip",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Equivalent",
+        "abbreviation": "Equiv",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Error",
+        "abbreviation": "Err",
+        "description": "Original AUTOSAR pair. The signal information of a defect is named with the keyword ERR. The physical meaning of ERR is the error itself."
+    },
+    {
+        "keyword": "Esc",
+        "abbreviation": "Esc",
+        "description": "Original AUTOSAR pair. electronic stability control"
+    },
+    {
+        "keyword": "Estimated",
+        "abbreviation": "Estimd",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Estimation",
+        "abbreviation": "Estimn",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Estimator",
+        "abbreviation": "Estimr",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Evaluation",
+        "abbreviation": "Evln",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Evaluator",
+        "abbreviation": "Evlr",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Evaporative",
+        "abbreviation": "Evap",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Event",
+        "abbreviation": "Eve",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Exceed",
+        "abbreviation": "Exc",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Excenter",
+        "abbreviation": "Excr",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Exception",
+        "abbreviation": "Excpn",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Excitation",
+        "abbreviation": "Exct",
+        "description": "Original AUTOSAR pair. the keyword EXCT is used to express the technical effect of excitation, e.g. in connection with a current or a voltage in a generator"
+    },
+    {
+        "keyword": "Exhaust",
+        "abbreviation": "Exh",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Exotherm",
+        "abbreviation": "Exo",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Expansion",
+        "abbreviation": "Exp",
+        "description": "Original AUTOSAR pair. This keyword can be used for the expansion phase of the engine cycle."
+    },
+    {
+        "keyword": "Experiment",
+        "abbreviation": "Expt",
+        "description": "Original AUTOSAR pair. experiment. EXPT is the keyword for the \"EXPERIMENT\". In opposite to the keyword TEST, it is not used to check an existing functionality, but to try something new."
+    },
+    {
+        "keyword": "Export",
+        "abbreviation": "Exprt",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Extended",
+        "abbreviation": "Extd",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Exterior",
+        "abbreviation": "Extr",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "External",
+        "abbreviation": "Ext",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Extrapolation",
+        "abbreviation": "Extrpn",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Factor",
+        "abbreviation": "Fac",
+        "description": "Original AUTOSAR pair. factor , coefficient"
+    },
+    {
+        "keyword": "Fade",
+        "abbreviation": "Fade",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Failure",
+        "abbreviation": "Fai",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Falling",
+        "abbreviation": "Fall",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Fan",
+        "abbreviation": "Fan",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Farad",
+        "abbreviation": "Frd",
+        "description": "Original AUTOSAR pair. Unit of measure for Electric capacitance"
+    },
+    {
+        "keyword": "Fast",
+        "abbreviation": "Fast",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Fault",
+        "abbreviation": "Flt",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Favourable",
+        "abbreviation": "Fav",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Feedback",
+        "abbreviation": "Fb",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Field",
+        "abbreviation": "Fie",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "File",
+        "abbreviation": "File",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Filling",
+        "abbreviation": "Fillg",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Filter",
+        "abbreviation": "Fil",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Filtered",
+        "abbreviation": "Fild",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Finder",
+        "abbreviation": "Findr",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Fine",
+        "abbreviation": "Fine",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "First",
+        "abbreviation": "First",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Flag",
+        "abbreviation": "Flg",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Flank",
+        "abbreviation": "Flk",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Flap",
+        "abbreviation": "Flap",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Flash",
+        "abbreviation": "Fls",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Flashing",
+        "abbreviation": "Flsg",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Flood",
+        "abbreviation": "Flood",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Flow",
+        "abbreviation": "Flow",
+        "description": "Original AUTOSAR pair. is used as example in the definition of CRCV: FLOW_CRCV"
+    },
+    {
+        "keyword": "Fluctuation",
+        "abbreviation": "Fluc",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Fluid",
+        "abbreviation": "Fld",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Flywheel",
+        "abbreviation": "Flywh",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Fm",
+        "abbreviation": "Fm",
+        "description": "Original AUTOSAR pair. frequency modulation"
+    },
+    {
+        "keyword": "Follower",
+        "abbreviation": "Fol",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "For",
+        "abbreviation": "For",
+        "description": "Original AUTOSAR pair. Preposition"
+    },
+    {
+        "keyword": "Force",
+        "abbreviation": "F",
+        "description": "Original AUTOSAR pair. describes the physical parameter 'force'"
+    },
+    {
+        "keyword": "Format",
+        "abbreviation": "Fmt",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Freewheeling",
+        "abbreviation": "Fw",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Frequency",
+        "abbreviation": "Frq",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Friction",
+        "abbreviation": "Fric",
+        "description": "Original AUTOSAR pair. Friction torque from turbo charger"
+    },
+    {
+        "keyword": "From",
+        "abbreviation": "From",
+        "description": "Original AUTOSAR pair. Preposition"
+    },
+    {
+        "keyword": "Front",
+        "abbreviation": "Frnt",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Frozen",
+        "abbreviation": "Frzn",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Fsm",
+        "abbreviation": "Fsm",
+        "description": "Original AUTOSAR pair. Fail Safe Mode. FSM describes one state of a state machine which is entered in case of failure. FSM is and rather hardware-related independent from Monitoring Limp-Home or functionalities."
+    },
+    {
+        "keyword": "Fuel",
+        "abbreviation": "Fu",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Full",
+        "abbreviation": "Full",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Function",
+        "abbreviation": "Fct",
+        "description": "Original AUTOSAR pair. Purpose"
+    },
+    {
+        "keyword": "Functional",
+        "abbreviation": "Fctl",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Functionality",
+        "abbreviation": "Fcty",
+        "description": "Original AUTOSAR pair. Feature"
+    },
+    {
+        "keyword": "Gain",
+        "abbreviation": "Gain",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Gap",
+        "abbreviation": "Gap",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Gas",
+        "abbreviation": "Gas",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Gasoline",
+        "abbreviation": "Gsl",
+        "description": "Original AUTOSAR pair. This keyword is used to express the fuel type \"gasoline\"."
+    },
+    {
+        "keyword": "Gear",
+        "abbreviation": "Gear",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Gearbox",
+        "abbreviation": "Gearb",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Generated",
+        "abbreviation": "Gend",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Generator",
+        "abbreviation": "Genr",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Generic",
+        "abbreviation": "Gen",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Get",
+        "abbreviation": "Get",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Gigahertz",
+        "abbreviation": "Ghz",
+        "description": "Original AUTOSAR pair. Unit of measure for frequency"
+    },
+    {
+        "keyword": "Global",
+        "abbreviation": "Glb",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Glow",
+        "abbreviation": "Glw",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Governor",
+        "abbreviation": "Govr",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Grade",
+        "abbreviation": "Grd",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Gradient",
+        "abbreviation": "Grdt",
+        "description": "Original AUTOSAR pair. gradient/slope"
+    },
+    {
+        "keyword": "Gravity",
+        "abbreviation": "Grv",
+        "description": "Original AUTOSAR pair. This keyword describes the force of attraction between to masses, well known as gravity."
+    },
+    {
+        "keyword": "Ground",
+        "abbreviation": "Gnd",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Half",
+        "abbreviation": "Half",
+        "description": "Original AUTOSAR pair. half, semi-. This keyword is used to characterize something for being only one part of two that make a whole item. Example: the time for a half engine segment."
+    },
+    {
+        "keyword": "Handbrake",
+        "abbreviation": "Hndbrk",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Handling",
+        "abbreviation": "Hndlg",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Hardware",
+        "abbreviation": "Hw",
+        "description": "Original AUTOSAR pair. This keyword is used to express a relationship to Hardware within a functionality or an environmental tools, e.g. Labcar."
+    },
+    {
+        "keyword": "Head",
+        "abbreviation": "Hea",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Header",
+        "abbreviation": "Hd",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Heal",
+        "abbreviation": "Heal",
+        "description": "Original AUTOSAR pair. This keyword is needed for functions that try to heal a failure. E.g. an or a control actuator valve is blocked due to a dirt particle. A free-shaking control signal can lead to releasing the particle from the actuator."
+    },
+    {
+        "keyword": "Heat",
+        "abbreviation": "Heat",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Heated",
+        "abbreviation": "Heatd",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Heater",
+        "abbreviation": "Heatr",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Heating",
+        "abbreviation": "Heatg",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Hectopascal",
+        "abbreviation": "Hpa",
+        "description": "Original AUTOSAR pair. Unit of measure for pressure"
+    },
+    {
+        "keyword": "Height",
+        "abbreviation": "Hei",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Hertz",
+        "abbreviation": "Hz",
+        "description": "Original AUTOSAR pair. Unit of measure for frequency"
+    },
+    {
+        "keyword": "High",
+        "abbreviation": "Hi",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Hill",
+        "abbreviation": "Hill",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "History",
+        "abbreviation": "His",
+        "description": "Original AUTOSAR pair. for data stored in history memory"
+    },
+    {
+        "keyword": "Hmi",
+        "abbreviation": "Hmi",
+        "description": "Original AUTOSAR pair. Human-Machine Interface"
+    },
+    {
+        "keyword": "Hold",
+        "abbreviation": "Hld",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Home",
+        "abbreviation": "Home",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Homogeneous",
+        "abbreviation": "Hom",
+        "description": "Original AUTOSAR pair. this keyword is used to describe the method of homogeneous injection in a general way (in all variants it may occur). Homogeneous injection means: the whole cylinder volume is filled with a mixture of fuel and air with a constant air-fuel-ratio"
+    },
+    {
+        "keyword": "Hood",
+        "abbreviation": "Hood",
+        "description": "Original AUTOSAR pair. engine hood. e.g. for use LV_HOOD_OPEN engine hood is open"
+    },
+    {
+        "keyword": "Hot",
+        "abbreviation": "Hot",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Hotel",
+        "abbreviation": "Htl",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Hour",
+        "abbreviation": "Hr",
+        "description": "Original AUTOSAR pair. Unit of measure for time"
+    },
+    {
+        "keyword": "Housing",
+        "abbreviation": "Housg",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Hp",
+        "abbreviation": "Hp",
+        "description": "Original AUTOSAR pair. high pressure"
+    },
+    {
+        "keyword": "Hud",
+        "abbreviation": "Hud",
+        "description": "Original AUTOSAR pair. head up display. This keyword is used to express the feature of show information right in the field of view of the driver, e.g. by mirroring it onto the wind screen."
+    },
+    {
+        "keyword": "Humidity",
+        "abbreviation": "Hum",
+        "description": "Original AUTOSAR pair. the keyword HUM is used to assign the amount of water in a or a gaseous gas mixture. Example: the humidity in the exhaust gas."
+    },
+    {
+        "keyword": "Hybrid",
+        "abbreviation": "Hyb",
+        "description": "Original AUTOSAR pair. Any vehicle that combines two or more sources of power that can directly or indirectly provide propulsion power is a hybrid"
+    },
+    {
+        "keyword": "Hydraulic",
+        "abbreviation": "Hyd",
+        "description": "Original AUTOSAR pair. used to characterize hydraulic components"
+    },
+    {
+        "keyword": "Hysteresis",
+        "abbreviation": "Hys",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "I",
+        "abbreviation": "I",
+        "description": "Original AUTOSAR pair. Electric current"
+    },
+    {
+        "keyword": "Ic",
+        "abbreviation": "Ic",
+        "description": "Original AUTOSAR pair. integrated circuit"
+    },
+    {
+        "keyword": "Ice",
+        "abbreviation": "Ice",
+        "description": "Original AUTOSAR pair. This keyword expresses an interrelation with with icy an ice or a e.g. environment, improve to functionality on drivability the frosted streets."
+    },
+    {
+        "keyword": "Identifier",
+        "abbreviation": "Id",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Idle",
+        "abbreviation": "Idle",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Ignition",
+        "abbreviation": "Ig",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Immediate",
+        "abbreviation": "Imdt",
+        "description": "Original AUTOSAR pair. this keyword is used to assign a requirement of minimum delay time or the need to take action as soon as possible."
+    },
+    {
+        "keyword": "Immediately",
+        "abbreviation": "Imdty",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Immobilizer",
+        "abbreviation": "Imob",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Implausibility",
+        "abbreviation": "Imply",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Import",
+        "abbreviation": "Imprt",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Impossible",
+        "abbreviation": "Impo",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Impulse",
+        "abbreviation": "Imp",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "In",
+        "abbreviation": "In",
+        "description": "Original AUTOSAR pair. Preposition for location or condition"
+    },
+    {
+        "keyword": "Inclination",
+        "abbreviation": "Incln",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Increase",
+        "abbreviation": "Inc",
+        "description": "Original AUTOSAR pair. This keyword is used to express a stepwise accretion of a value or counter"
+    },
+    {
+        "keyword": "Increment",
+        "abbreviation": "Inct",
+        "description": "Original AUTOSAR pair. This keyword is used to express a stepwise accretion of a value or counter"
+    },
+    {
+        "keyword": "Index",
+        "abbreviation": "Idx",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Indicated",
+        "abbreviation": "Indcd",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Indication",
+        "abbreviation": "Indcn",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Indicator",
+        "abbreviation": "Indcr",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Individual",
+        "abbreviation": "Ind",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Inductive",
+        "abbreviation": "Indu",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Inertia",
+        "abbreviation": "J",
+        "description": "Original AUTOSAR pair. this keyword is used to express the physical effect that the mass of a body is interacting against its acceleration"
+    },
+    {
+        "keyword": "Information",
+        "abbreviation": "Info",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Inhibition",
+        "abbreviation": "Inh",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Initial",
+        "abbreviation": "Ini",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Initialization",
+        "abbreviation": "Inin",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Injection",
+        "abbreviation": "Inj",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Injector",
+        "abbreviation": "Injr",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Input",
+        "abbreviation": "Inp",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Inside",
+        "abbreviation": "Insd",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Instance",
+        "abbreviation": "Inst",
+        "description": "Original AUTOSAR pair. This keyword is used for the characterisation e.g. of a diagnosis. The instance of the intake air temperature diagnosis is TIA. (DIAG_INST = TIA)"
+    },
+    {
+        "keyword": "Intake",
+        "abbreviation": "Intk",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Integer",
+        "abbreviation": "Intgr",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Integral",
+        "abbreviation": "Intgl",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Intended",
+        "abbreviation": "Intd",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Intensity",
+        "abbreviation": "Inten",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Intercooler",
+        "abbreviation": "Ico",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Interface",
+        "abbreviation": "If",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Interior",
+        "abbreviation": "Intr",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Intermediary",
+        "abbreviation": "Intery",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Intermediate",
+        "abbreviation": "Inter",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Intermittent",
+        "abbreviation": "Intm",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Internal",
+        "abbreviation": "Int",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Interpolation",
+        "abbreviation": "Intrpn",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Interpreter",
+        "abbreviation": "Itp",
+        "description": "Original AUTOSAR pair. For the network layer of KWP2000"
+    },
+    {
+        "keyword": "Interrupt",
+        "abbreviation": "It",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Interval",
+        "abbreviation": "Intl",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Intervention",
+        "abbreviation": "Intv",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Inverse",
+        "abbreviation": "Ivs",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Invert",
+        "abbreviation": "Ivt",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Irreversible",
+        "abbreviation": "Irrv",
+        "description": "Original AUTOSAR pair. this keyword is used to express something can not return to a previous status, e.g.in Cruise Control deactivation: IRV means in this case that cruise can not be activated again in the same driving cycle once a deactivation occurred"
+    },
+    {
+        "keyword": "Jam",
+        "abbreviation": "Jam",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Jerk",
+        "abbreviation": "Jerk",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Joule",
+        "abbreviation": "Jou",
+        "description": "Original AUTOSAR pair. Unit of measure for energy, work"
+    },
+    {
+        "keyword": "Jump",
+        "abbreviation": "Jmp",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Kelvin",
+        "abbreviation": "K",
+        "description": "Original AUTOSAR pair. Unit of measure for temperature"
+    },
+    {
+        "keyword": "Key",
+        "abbreviation": "Key",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Keyless",
+        "abbreviation": "Keyls",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Kickdown",
+        "abbreviation": "Kickdw",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Kilogram",
+        "abbreviation": "Kg",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Kilohertz",
+        "abbreviation": "Khz",
+        "description": "Original AUTOSAR pair. Unit of measure for frequency"
+    },
+    {
+        "keyword": "Kilometer",
+        "abbreviation": "Km",
+        "description": "Original AUTOSAR pair. kilometer"
+    },
+    {
+        "keyword": "Knock",
+        "abbreviation": "Knk",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Kp",
+        "abbreviation": "Kp",
+        "description": "Original AUTOSAR pair. proportional amplification. this keyword is used to express an proportional amplification in the context of control engineering"
+    },
+    {
+        "keyword": "Kr",
+        "abbreviation": "Kr",
+        "description": "Original AUTOSAR pair. gain for discrete control structures. This keyword is used in control engineering context as gain for discrete control structures"
+    },
+    {
+        "keyword": "Lambda",
+        "abbreviation": "Lam",
+        "description": "Original AUTOSAR pair. Air/Fuel Ratio"
+    },
+    {
+        "keyword": "Lamp",
+        "abbreviation": "Lamp",
+        "description": "Original AUTOSAR pair. this keyword is used do describe the component of a lamp, e.g in the display of the instrument panel"
+    },
+    {
+        "keyword": "Large",
+        "abbreviation": "Lrg",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Last",
+        "abbreviation": "Lst",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Latch",
+        "abbreviation": "Ltch",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Lateral",
+        "abbreviation": "Lat",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Lead",
+        "abbreviation": "Lead",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Leak",
+        "abbreviation": "Leak",
+        "description": "Original AUTOSAR pair. The power stage for the piezo injectors has a special hardware (leakage compensation) to avoid discharging of capacities."
+    },
+    {
+        "keyword": "Lean",
+        "abbreviation": "Lean",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Learn",
+        "abbreviation": "Lrn",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Learning",
+        "abbreviation": "Lrng",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Leaving",
+        "abbreviation": "Lvng",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Left",
+        "abbreviation": "Le",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Length",
+        "abbreviation": "Len",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Level",
+        "abbreviation": "Lvl",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Lever",
+        "abbreviation": "Lvr",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Lid",
+        "abbreviation": "Lid",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Light",
+        "abbreviation": "Li",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Lighting",
+        "abbreviation": "Ltg",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Limit",
+        "abbreviation": "Lim",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Limitation",
+        "abbreviation": "Limn",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Limited",
+        "abbreviation": "Limd",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Limiter",
+        "abbreviation": "Limr",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Lin",
+        "abbreviation": "Lin",
+        "description": "Original AUTOSAR pair. local interconnect network. LIN is a commonly used abbreviation for a bus system"
+    },
+    {
+        "keyword": "Line",
+        "abbreviation": "Line",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Linear",
+        "abbreviation": "Lnr",
+        "description": "Original AUTOSAR pair. used for description of linear qualities"
+    },
+    {
+        "keyword": "Load",
+        "abbreviation": "Loa",
+        "description": "Original AUTOSAR pair. Unit must be percent"
+    },
+    {
+        "keyword": "Lock",
+        "abbreviation": "Lock",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Locked",
+        "abbreviation": "Lockd",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Locking",
+        "abbreviation": "Lockg",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Logical",
+        "abbreviation": "Logl",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Long",
+        "abbreviation": "Long",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Longitudinal",
+        "abbreviation": "Lgt",
+        "description": "Original AUTOSAR pair. longitudinal"
+    },
+    {
+        "keyword": "Loop",
+        "abbreviation": "Loop",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Loss",
+        "abbreviation": "Loss",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Lost",
+        "abbreviation": "Lost",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Low",
+        "abbreviation": "Lo",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Lower",
+        "abbreviation": "Lowr",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Lp",
+        "abbreviation": "Lp",
+        "description": "Original AUTOSAR pair. low pressure"
+    },
+    {
+        "keyword": "Machine",
+        "abbreviation": "Mac",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Magnetic",
+        "abbreviation": "Mag",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Magnitude",
+        "abbreviation": "Mgn",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Main",
+        "abbreviation": "Mai",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Maintenance",
+        "abbreviation": "Mntn",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Manage",
+        "abbreviation": "Mng",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Management",
+        "abbreviation": "Mngt",
+        "description": "Original AUTOSAR pair. Used for the realisation of the combustion management within the design guidelines for Simulink/Matlab to construct names of the module."
+    },
+    {
+        "keyword": "Manager",
+        "abbreviation": "Mgr",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Manifold",
+        "abbreviation": "Mnfld",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Manual",
+        "abbreviation": "Man",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Map",
+        "abbreviation": "Map",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Mapping",
+        "abbreviation": "Mpg",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Marked",
+        "abbreviation": "Mkd",
+        "description": "Original AUTOSAR pair. useful to define some data as \"marked\"."
+    },
+    {
+        "keyword": "Market",
+        "abbreviation": "Mkt",
+        "description": "Original AUTOSAR pair. the keyword MKT is used to express market in the meaning of delivery areas, e.g. to characterize deviances in a component or function due to different customer market requirements."
+    },
+    {
+        "keyword": "Mask",
+        "abbreviation": "Mask",
+        "description": "Original AUTOSAR pair. this keyword is used to characterize a masking of a certain value to separate it from the non-masked one."
+    },
+    {
+        "keyword": "Mass",
+        "abbreviation": "M",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Massage",
+        "abbreviation": "Massg",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Master",
+        "abbreviation": "Mst",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Mathematical",
+        "abbreviation": "Mat",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Maximum",
+        "abbreviation": "Max",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Measure",
+        "abbreviation": "Meas",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Measured",
+        "abbreviation": "Measd",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Mechanic",
+        "abbreviation": "Mec",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Mechanical",
+        "abbreviation": "Mecl",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Megahertz",
+        "abbreviation": "Mhz",
+        "description": "Original AUTOSAR pair. Unit of measure for frequency"
+    },
+    {
+        "keyword": "Memorise",
+        "abbreviation": "Memr",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Memorized",
+        "abbreviation": "Memd",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Memory",
+        "abbreviation": "Mem",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Message",
+        "abbreviation": "Msg",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Meter",
+        "abbreviation": "Mtr",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Method",
+        "abbreviation": "Meth",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Micrometer",
+        "abbreviation": "Micron",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Microsecond",
+        "abbreviation": "Micros",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Middle",
+        "abbreviation": "Mid",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Mileage",
+        "abbreviation": "Milg",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Millimeter",
+        "abbreviation": "Mm",
+        "description": "Original AUTOSAR pair. Unit of measure for length"
+    },
+    {
+        "keyword": "Millisecond",
+        "abbreviation": "Ms",
+        "description": "Original AUTOSAR pair. Unit of measure for time"
+    },
+    {
+        "keyword": "Minimum",
+        "abbreviation": "Min",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Minute",
+        "abbreviation": "Mins",
+        "description": "Original AUTOSAR pair. Unit of measure for time"
+    },
+    {
+        "keyword": "Mirror",
+        "abbreviation": "Mirr",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Misfire",
+        "abbreviation": "Misf",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Misfiring",
+        "abbreviation": "Misfg",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Missing",
+        "abbreviation": "Miss",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Mitigation",
+        "abbreviation": "Mtgtn",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Mode",
+        "abbreviation": "Mod",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Model",
+        "abbreviation": "Mdl",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Modulation",
+        "abbreviation": "Modln",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Mole",
+        "abbreviation": "Mol",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Moment",
+        "abbreviation": "Mom",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Momentum",
+        "abbreviation": "Momtm",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Monitor",
+        "abbreviation": "Monr",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Monitoring",
+        "abbreviation": "Mon",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Motion",
+        "abbreviation": "Mtn",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Motor",
+        "abbreviation": "Mot",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Mounted",
+        "abbreviation": "Mntd",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Mounting",
+        "abbreviation": "Mntg",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Move",
+        "abbreviation": "Move",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Movement",
+        "abbreviation": "Movmt",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Msr",
+        "abbreviation": "Msr",
+        "description": "Original AUTOSAR pair. deceleration slip control"
+    },
+    {
+        "keyword": "Mt",
+        "abbreviation": "Mt",
+        "description": "Original AUTOSAR pair. manual shifted transmission"
+    },
+    {
+        "keyword": "Multimedia",
+        "abbreviation": "Mmed",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Multiple",
+        "abbreviation": "Mpl",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Multiplexer",
+        "abbreviation": "Mux",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "N",
+        "abbreviation": "N",
+        "description": "Original AUTOSAR pair. rotational speed. used for all kinds of rotational speeds (in a common sense). The formerly use of N and N_32 for engine speed is still accepted but at least for interfaces to drivetrain functionalities, N_ENG is recommended to express engine speed."
+    },
+    {
+        "keyword": "Nack",
+        "abbreviation": "Nack",
+        "description": "Original AUTOSAR pair. no acknowledge"
+    },
+    {
+        "keyword": "Name",
+        "abbreviation": "Name",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Natural",
+        "abbreviation": "Nat",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Negation",
+        "abbreviation": "Negn",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Negative",
+        "abbreviation": "Neg",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Network",
+        "abbreviation": "Net",
+        "description": "Original AUTOSAR pair. NET describes all kind of networks in general, e. g. an electric network consisting of any type of consumsers and generators. voltage range not defined (14V, 42 V, ...)"
+    },
+    {
+        "keyword": "Neutral",
+        "abbreviation": "Neut",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "New",
+        "abbreviation": "New",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Newton",
+        "abbreviation": "Nwt",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Night",
+        "abbreviation": "Night",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Node",
+        "abbreviation": "Nod",
+        "description": "Original AUTOSAR pair. NOD is the basic keyword for a junction or joining of lines or ways. The battery node is used to control the battery voltage of the Labcar to generate the appropriate battery voltage for the ECU."
+    },
+    {
+        "keyword": "Noise",
+        "abbreviation": "Noise",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Nominal",
+        "abbreviation": "Nom",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Nonlinear",
+        "abbreviation": "Nlnr",
+        "description": "Original AUTOSAR pair. nonlinear. used for description of non linear characteristics (e.g. for an optional additional nonlinear correction)"
+    },
+    {
+        "keyword": "Normal",
+        "abbreviation": "Norm",
+        "description": "Original AUTOSAR pair. this keyword is used to describe something as being in the most common mode, e.g. a state machine has a state normal when running properly without disturbance. Do not mix it with BAS for description of fulfilling a basic or minimum requirement."
+    },
+    {
+        "keyword": "Not",
+        "abbreviation": "Not",
+        "description": "Original AUTOSAR pair. Preposition for negation"
+    },
+    {
+        "keyword": "Now",
+        "abbreviation": "Now",
+        "description": "Original AUTOSAR pair. in this moment"
+    },
+    {
+        "keyword": "Nox",
+        "abbreviation": "Nox",
+        "description": "Original AUTOSAR pair. nox. This keyword is used to describe the nitrogen oxides (NOx) part of the emissions of a combustion engine."
+    },
+    {
+        "keyword": "Nozzle",
+        "abbreviation": "Noz",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Number",
+        "abbreviation": "No",
+        "description": "Original AUTOSAR pair. this keyword is used to express a numbering in physical meaning (the corresponding unit is \"piece\"). The utilization in the keyword class \"Characteristic\" is tolerated for old names (before 04/2002)"
+    },
+    {
+        "keyword": "Observe",
+        "abbreviation": "Obs",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Occupant",
+        "abbreviation": "Occpt",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Of",
+        "abbreviation": "Of",
+        "description": "Original AUTOSAR pair. Preposition"
+    },
+    {
+        "keyword": "Off",
+        "abbreviation": "Off",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Offset",
+        "abbreviation": "Ofs",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Ohm",
+        "abbreviation": "Ohm",
+        "description": "Original AUTOSAR pair. Unit of measure for electric resistance"
+    },
+    {
+        "keyword": "Oil",
+        "abbreviation": "Oil",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Ok",
+        "abbreviation": "Ok",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Old",
+        "abbreviation": "Old",
+        "description": "Original AUTOSAR pair. in the calculation period n, the keyword OLD assigns a value from the period (n-1)."
+    },
+    {
+        "keyword": "On",
+        "abbreviation": "On",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "One",
+        "abbreviation": "One",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Open",
+        "abbreviation": "Open",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Opening",
+        "abbreviation": "Opg",
+        "description": "Original AUTOSAR pair. Used to describe the opening of a valve or similar actuator (e.g. idle speed actuator). The opening is described in percent of the opening range (0 to 100%) to be independent of component details. Keyword will be used for inverse IMM (C008)."
+    },
+    {
+        "keyword": "Operation",
+        "abbreviation": "Oper",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Optimum",
+        "abbreviation": "Optm",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Optional",
+        "abbreviation": "Opt",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Orientation",
+        "abbreviation": "Orntn",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Os",
+        "abbreviation": "Os",
+        "description": "Original AUTOSAR pair. operating system"
+    },
+    {
+        "keyword": "Oscillate",
+        "abbreviation": "Osc",
+        "description": "Original AUTOSAR pair. This keyword is used to describe occurrences of pulsation or oscillation"
+    },
+    {
+        "keyword": "Oscillation",
+        "abbreviation": "Oscn",
+        "description": "Original AUTOSAR pair. This keyword is used to describe occurrences of pulsation or oscillation"
+    },
+    {
+        "keyword": "Output",
+        "abbreviation": "Out",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Outside",
+        "abbreviation": "Outd",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Over",
+        "abbreviation": "Over",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Overflow",
+        "abbreviation": "Ovf",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Overheated",
+        "abbreviation": "Ovrheatd",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Overheating",
+        "abbreviation": "Ovrheatg",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Overload",
+        "abbreviation": "Ovld",
+        "description": "Original AUTOSAR pair. The keyword is used for an electrical actuator, if the requested power exceeds the allowed long time power limit. The overload must be possible for a certain time."
+    },
+    {
+        "keyword": "Overridden",
+        "abbreviation": "Ovrdn",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Override",
+        "abbreviation": "Ovrd",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Oxidation",
+        "abbreviation": "Oxd",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Pad",
+        "abbreviation": "Pad",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Panel",
+        "abbreviation": "Pan",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Parameter",
+        "abbreviation": "Prm",
+        "description": "Original AUTOSAR pair. ACTION Parameter. PRM is used exclusively to identify any Parameter of any ACTION call. It is mandatory to start every Parameter with \"PRM_\". Any other use of this keyword is not allowed."
+    },
+    {
+        "keyword": "Parity",
+        "abbreviation": "Par",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Park",
+        "abbreviation": "Park",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Parking",
+        "abbreviation": "Prkg",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Partial",
+        "abbreviation": "Ptl",
+        "description": "Original AUTOSAR pair. this keyword expresses the characterization of \"only partly, not completely\""
+    },
+    {
+        "keyword": "Pascal",
+        "abbreviation": "Pa",
+        "description": "Original AUTOSAR pair. Unit of measure for pressure"
+    },
+    {
+        "keyword": "Passenger",
+        "abbreviation": "Pass",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Passive",
+        "abbreviation": "Pas",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Path",
+        "abbreviation": "Pah",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Pattern",
+        "abbreviation": "Pat",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Peak",
+        "abbreviation": "Peak",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Pedal",
+        "abbreviation": "Pedl",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Pedestrian",
+        "abbreviation": "Ped",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Pending",
+        "abbreviation": "Pnd",
+        "description": "Original AUTOSAR pair. This keyword is used to build the \"pending\" fault used in the error management aggregate defined by the the ISO 15031-5.5 service $07."
+    },
+    {
+        "keyword": "Per",
+        "abbreviation": "Per",
+        "description": "Original AUTOSAR pair. Preposition"
+    },
+    {
+        "keyword": "Percent",
+        "abbreviation": "Perc",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Percentage",
+        "abbreviation": "Percg",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Period",
+        "abbreviation": "Perd",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Personal",
+        "abbreviation": "Prsnl",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Personalization",
+        "abbreviation": "Pen",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Phase",
+        "abbreviation": "Pha",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Physical",
+        "abbreviation": "Phy",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Pi",
+        "abbreviation": "Pi",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Pid",
+        "abbreviation": "Pid",
+        "description": "Original AUTOSAR pair. pid. proportional integral differential"
+    },
+    {
+        "keyword": "Pin",
+        "abbreviation": "Pin",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Pinion",
+        "abbreviation": "Pinion",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Piston",
+        "abbreviation": "Pist",
+        "description": "Original AUTOSAR pair. central component in a combustion engine. It serves to transform the pressure within gas the cylinder into a movement. The keyword is used e.g. to express the name for piston temperature"
+    },
+    {
+        "keyword": "Pitch",
+        "abbreviation": "Pitch",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Plant",
+        "abbreviation": "Pla",
+        "description": "Original AUTOSAR pair. Simulation items containing the plant, I.e. the simulation of the \"real world\", start with the keyword PLA."
+    },
+    {
+        "keyword": "Plausible",
+        "abbreviation": "Plaus",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Pneumatic",
+        "abbreviation": "Pnm",
+        "description": "Original AUTOSAR pair. used e.g. for description of pneumatic actuators (such as recirculation valve actuator or wastegate actuator)"
+    },
+    {
+        "keyword": "Pointer",
+        "abbreviation": "Ptr",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Port",
+        "abbreviation": "Port",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Position",
+        "abbreviation": "Posn",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Positive",
+        "abbreviation": "Pos",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Post",
+        "abbreviation": "Post",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Potentiometer",
+        "abbreviation": "Poti",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Power",
+        "abbreviation": "Pwr",
+        "description": "Original AUTOSAR pair. Also valid for Power Supply"
+    },
+    {
+        "keyword": "Powertrain",
+        "abbreviation": "Pt",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Pprt",
+        "abbreviation": "Pprt",
+        "description": "Original AUTOSAR pair. proportional part of a control structure"
+    },
+    {
+        "keyword": "Pre",
+        "abbreviation": "Pre",
+        "description": "Original AUTOSAR pair. used to express any kind of pre-processing like e.g. for pre-injection TI_PRE"
+    },
+    {
+        "keyword": "Precharge",
+        "abbreviation": "Prec",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Predicted",
+        "abbreviation": "Pred",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Preliminary",
+        "abbreviation": "Prel",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Premature",
+        "abbreviation": "Prem",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Preparation",
+        "abbreviation": "Prep",
+        "description": "Original AUTOSAR pair. this characteristic is used to express a general status of preparation, processing of e.g. certain tasks before an activation of a certain component or functionality"
+    },
+    {
+        "keyword": "Presence",
+        "abbreviation": "Pres",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Present",
+        "abbreviation": "Prest",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Pressed",
+        "abbreviation": "Psd",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Pressure",
+        "abbreviation": "P",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Prevention",
+        "abbreviation": "Prevn",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Previous",
+        "abbreviation": "Prev",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Primary",
+        "abbreviation": "Prim",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Priority",
+        "abbreviation": "Prio",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Profile",
+        "abbreviation": "Prof",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Program",
+        "abbreviation": "Prog",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Programming",
+        "abbreviation": "Progm",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Progress",
+        "abbreviation": "Progs",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Progression",
+        "abbreviation": "Progrn",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Project",
+        "abbreviation": "Prj",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Property",
+        "abbreviation": "Ppty",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Proportional",
+        "abbreviation": "Prop",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Propulsive",
+        "abbreviation": "Prp",
+        "description": "Original AUTOSAR pair. opposite of drag resistance. Notion of positive forces generated by a system. Example: for a car, we can list internal combustion engine + starter/generator + electrical engine"
+    },
+    {
+        "keyword": "Protected",
+        "abbreviation": "Protd",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Protection",
+        "abbreviation": "Protn",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Ptc",
+        "abbreviation": "Ptc",
+        "description": "Original AUTOSAR pair. Power Train Controller"
+    },
+    {
+        "keyword": "Pull",
+        "abbreviation": "Pu",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Pulse",
+        "abbreviation": "Pls",
+        "description": "Original AUTOSAR pair. a pulse is a simple electrical signal with a defined shape"
+    },
+    {
+        "keyword": "Pump",
+        "abbreviation": "Pmp",
+        "description": "Original AUTOSAR pair. use if the be assigned to component cannot one particular e.g. the same functionality. pump can be used for AMT as well as for PSTE"
+    },
+    {
+        "keyword": "Purge",
+        "abbreviation": "Purg",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Purging",
+        "abbreviation": "Purgg",
+        "description": "Original AUTOSAR pair. this keyword expresses a characteristic relationship with the operation of purging (e.g. a filter or a catalyst)"
+    },
+    {
+        "keyword": "Push",
+        "abbreviation": "Push",
+        "description": "Original AUTOSAR pair. push (start), towing, power on driving, press. keyword for push or towing (e.g. if a active vehicle has to be started by towing, a button is pressed, if there is positive torque inside powertrain)"
+    },
+    {
+        "keyword": "Put",
+        "abbreviation": "Put",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Pwm",
+        "abbreviation": "Pwm",
+        "description": "Original AUTOSAR pair. pulse width modulation"
+    },
+    {
+        "keyword": "Pyrometer",
+        "abbreviation": "Pyro",
+        "description": "Original AUTOSAR pair. this keyword is used to express a relationship to a pyrometer which is a contactless instrument to measure high temperatures"
+    },
+    {
+        "keyword": "Quality",
+        "abbreviation": "Qly",
+        "description": "Original AUTOSAR pair. This keyword is used to express the word 'quality'"
+    },
+    {
+        "keyword": "Quantity",
+        "abbreviation": "Qnty",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Quotient",
+        "abbreviation": "Quo",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Radian",
+        "abbreviation": "Rad",
+        "description": "Original AUTOSAR pair. As unit of measure for angles"
+    },
+    {
+        "keyword": "Radiator",
+        "abbreviation": "Radr",
+        "description": "Original AUTOSAR pair. a radiator is a component, that sends out heat. It can be found e.g. in the cooling circuit of a car."
+    },
+    {
+        "keyword": "Radius",
+        "abbreviation": "Rd",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Rail",
+        "abbreviation": "Rail",
+        "description": "Original AUTOSAR pair. common rail. This keyword shall be used to express the common rail, which is a core component in some fuel system configurations (esp. diesel). It is a pressure fuel high container mostly in form of a tube and located close to the engine."
+    },
+    {
+        "keyword": "Rain",
+        "abbreviation": "Rain",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Ram",
+        "abbreviation": "Ram",
+        "description": "Original AUTOSAR pair. Random Access Memory"
+    },
+    {
+        "keyword": "Ramp",
+        "abbreviation": "Ramp",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Random",
+        "abbreviation": "Rnd",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Range",
+        "abbreviation": "Rng",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Rate",
+        "abbreviation": "Rate",
+        "description": "Original AUTOSAR pair. this keyword is used to express in a rate physical meaning. The utilization the in keyword class \"Characteristic\" is tolerated for old names (before 04/2002)"
+    },
+    {
+        "keyword": "Ratio",
+        "abbreviation": "Rat",
+        "description": "Original AUTOSAR pair. RATIO is used to describe a value gained from a proportion of other values. The unit of RATIO must be [-] (no unit)."
+    },
+    {
+        "keyword": "Raw",
+        "abbreviation": "Raw",
+        "description": "Original AUTOSAR pair. Unprocessed sensor data."
+    },
+    {
+        "keyword": "Reactivation",
+        "abbreviation": "Reac",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Read",
+        "abbreviation": "Read",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Ready",
+        "abbreviation": "Rdy",
+        "description": "Original AUTOSAR pair. readiness identification"
+    },
+    {
+        "keyword": "Real",
+        "abbreviation": "Real",
+        "description": "Original AUTOSAR pair. Real part"
+    },
+    {
+        "keyword": "Realized",
+        "abbreviation": "Relzd",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Rear",
+        "abbreviation": "Re",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Receive",
+        "abbreviation": "Rx",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Reception",
+        "abbreviation": "Rxn",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Reciprocal",
+        "abbreviation": "Recpr",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Recirculation",
+        "abbreviation": "Rcl",
+        "description": "Original AUTOSAR pair. recirculation"
+    },
+    {
+        "keyword": "Record",
+        "abbreviation": "Rec",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Reduction",
+        "abbreviation": "Redn",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Reference",
+        "abbreviation": "Ref",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Refuel",
+        "abbreviation": "Refu",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Regeneration",
+        "abbreviation": "Rgn",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Regular",
+        "abbreviation": "Rgl",
+        "description": "Original AUTOSAR pair. this keyword is used describe e.g. to process as being in a normal status in sense of correctness. It is like wanted (it behaves like wanted to treat a disturbance), it is not out of order. It is the opposite of WRG."
+    },
+    {
+        "keyword": "Reinforce",
+        "abbreviation": "Reinf",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Relative",
+        "abbreviation": "Rel",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Relay",
+        "abbreviation": "Rly",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Release",
+        "abbreviation": "Rels",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Relevant",
+        "abbreviation": "Rlv",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Remote",
+        "abbreviation": "Rem",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Repeat",
+        "abbreviation": "Rep",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Repetition",
+        "abbreviation": "Repn",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Reprogrammation",
+        "abbreviation": "Rpg",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Request",
+        "abbreviation": "Req",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Requested",
+        "abbreviation": "Reqd",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Required",
+        "abbreviation": "Rqrd",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Reserve",
+        "abbreviation": "Resv",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Reset",
+        "abbreviation": "Rst",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Residual",
+        "abbreviation": "Resi",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Resistance",
+        "abbreviation": "R",
+        "description": "Original AUTOSAR pair. Unit must be Ohm"
+    },
+    {
+        "keyword": "Resolution",
+        "abbreviation": "Resl",
+        "description": "Original AUTOSAR pair. In the module <Vehicle speed calculation> it is necessary to distinguish the normal between resolution VS (1 km/h) and VS_H_RES (0.01 km/h)."
+    },
+    {
+        "keyword": "Response",
+        "abbreviation": "Resp",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Restart",
+        "abbreviation": "Rstrt",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Result",
+        "abbreviation": "Res",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Resume",
+        "abbreviation": "Resu",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Retard",
+        "abbreviation": "Rtd",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Retarder",
+        "abbreviation": "Rtdr",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Reverse",
+        "abbreviation": "Rvs",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Reversible",
+        "abbreviation": "Rvsb",
+        "description": "Original AUTOSAR pair. This keyword is used to something express can return to a previous status, e.g. in Cruise Control deactivation: RV in this case means that cruise can be activated again in the same driving cycle once a deactivation occured."
+    },
+    {
+        "keyword": "Revolution",
+        "abbreviation": "Rev",
+        "description": "Original AUTOSAR pair. As unit of measure"
+    },
+    {
+        "keyword": "Rho",
+        "abbreviation": "Rho",
+        "description": "Original AUTOSAR pair. density"
+    },
+    {
+        "keyword": "Rich",
+        "abbreviation": "Rich",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Ricirculation",
+        "abbreviation": "Rcrltn",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Ride",
+        "abbreviation": "Ride",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Right",
+        "abbreviation": "Ri",
+        "description": "Original AUTOSAR pair. right"
+    },
+    {
+        "keyword": "Rise",
+        "abbreviation": "Rise",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Rising",
+        "abbreviation": "Risng",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Road",
+        "abbreviation": "Road",
+        "description": "Original AUTOSAR pair. this keyword is used to express the conditions a street can apply to the vehicle. This can be in the meaning of simulation or in the meaning chassis dyno against road use."
+    },
+    {
+        "keyword": "Roll",
+        "abbreviation": "Roll",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Roller",
+        "abbreviation": "Rollr",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Rolling",
+        "abbreviation": "Rollg",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Rollover",
+        "abbreviation": "Rlov",
+        "description": "Original AUTOSAR pair. Info from airbag control unit"
+    },
+    {
+        "keyword": "Rom",
+        "abbreviation": "Rom",
+        "description": "Original AUTOSAR pair. read only memory"
+    },
+    {
+        "keyword": "Ron",
+        "abbreviation": "Ron",
+        "description": "Original AUTOSAR pair. research octane number"
+    },
+    {
+        "keyword": "Roof",
+        "abbreviation": "Roof",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Rotation",
+        "abbreviation": "Rot",
+        "description": "Original AUTOSAR pair. This keyword is used to express circular motions."
+    },
+    {
+        "keyword": "Rotational",
+        "abbreviation": "Rotl",
+        "description": "Original AUTOSAR pair. This keyword is used to express circular motions."
+    },
+    {
+        "keyword": "Roughness",
+        "abbreviation": "Roughns",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Row",
+        "abbreviation": "Row",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Rpm",
+        "abbreviation": "Rpm",
+        "description": "Original AUTOSAR pair. As unit of measure for frequency"
+    },
+    {
+        "keyword": "Run",
+        "abbreviation": "Run",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Running",
+        "abbreviation": "Runng",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Runtime",
+        "abbreviation": "Rt",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Sae",
+        "abbreviation": "Sae",
+        "description": "Original AUTOSAR pair. SAE International standard. SAE international is an Engineering Society crating standards and norms. The Keyword SAE in the context of Naming Convention shall be used to indicate that a certain variable or interface is defined according to the norms of SAE."
+    },
+    {
+        "keyword": "Safety",
+        "abbreviation": "Sfty",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Sale",
+        "abbreviation": "Sale",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Sample",
+        "abbreviation": "Sample",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Saturation",
+        "abbreviation": "Satn",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Save",
+        "abbreviation": "Save",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Saved",
+        "abbreviation": "Saved",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Scale",
+        "abbreviation": "Sca",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Scan",
+        "abbreviation": "Scan",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Scanner",
+        "abbreviation": "Scanr",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Scavenging",
+        "abbreviation": "Scav",
+        "description": "Original AUTOSAR pair. The process of pushing gas from the fresh inlet into the exhaust by having big overlap of opened inlet and outlet valve, especially at charged engines is called scavenging."
+    },
+    {
+        "keyword": "Scheduler",
+        "abbreviation": "Sdl",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Seat",
+        "abbreviation": "Seat",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Seating",
+        "abbreviation": "Seatg",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Second",
+        "abbreviation": "Sec",
+        "description": "Original AUTOSAR pair. As an adjective or as time unit"
+    },
+    {
+        "keyword": "Security",
+        "abbreviation": "Secu",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Seed",
+        "abbreviation": "Seed",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Segment",
+        "abbreviation": "Seg",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Segmented",
+        "abbreviation": "Segd",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Selected",
+        "abbreviation": "Seld",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Selection",
+        "abbreviation": "Seln",
+        "description": "Original AUTOSAR pair. SELN is used to assign e.g. the selection of a certain functionality (one out of several strategies) or component (one of several gears, sensors,..) as well as in simulation to select a single entry of an Array by putting SELN at the end of the name"
+    },
+    {
+        "keyword": "Send",
+        "abbreviation": "Snd",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Sensing",
+        "abbreviation": "Sen",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Sensitivity",
+        "abbreviation": "S",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Sensor",
+        "abbreviation": "Snsr",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Sequence",
+        "abbreviation": "Seq",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Sequential",
+        "abbreviation": "Seql",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Serial",
+        "abbreviation": "Serl",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Serie",
+        "abbreviation": "Ser",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Service",
+        "abbreviation": "Srv",
+        "description": "Original AUTOSAR pair. a service is a processing routine within a certain functionality. This keyword is used to nominate such services."
+    },
+    {
+        "keyword": "Servo",
+        "abbreviation": "Servo",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Set",
+        "abbreviation": "Set",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Setpoint",
+        "abbreviation": "Sp",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Shaft",
+        "abbreviation": "Sft",
+        "description": "Original AUTOSAR pair. a shaft is a rotating rod, carrying out a certain task or transmitting a force in a powertrain. Example: outbox gearbox shaft."
+    },
+    {
+        "keyword": "Shield",
+        "abbreviation": "Shd",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Shift",
+        "abbreviation": "Shift",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Short",
+        "abbreviation": "Sho",
+        "description": "Original AUTOSAR pair. short trip"
+    },
+    {
+        "keyword": "Shortening",
+        "abbreviation": "Shong",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Shup",
+        "abbreviation": "Shup",
+        "description": "Original AUTOSAR pair. shift up"
+    },
+    {
+        "keyword": "Shutter",
+        "abbreviation": "Shttr",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Side",
+        "abbreviation": "Side",
+        "description": "Original AUTOSAR pair. This keyword is intended for common consideration of inlet and exhaust side."
+    },
+    {
+        "keyword": "Signal",
+        "abbreviation": "Sig",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Signaling",
+        "abbreviation": "Signg",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Simulated",
+        "abbreviation": "Simd",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Simulation",
+        "abbreviation": "Simn",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Single",
+        "abbreviation": "Sng",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Sinus",
+        "abbreviation": "Sin",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Slave",
+        "abbreviation": "Slave",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Sliding",
+        "abbreviation": "Sldg",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Slip",
+        "abbreviation": "Slip",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Slope",
+        "abbreviation": "Slop",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Slow",
+        "abbreviation": "Slow",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Smart",
+        "abbreviation": "Smt",
+        "description": "Original AUTOSAR pair. more and more electronic components take over tasks that had been done before by a central processing unit. Such components are seen as \"intelligent\" or \"smart\", whereas the second expression is the one used more generally."
+    },
+    {
+        "keyword": "Smoothing",
+        "abbreviation": "Smotng",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Software",
+        "abbreviation": "Sw",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Soi",
+        "abbreviation": "Soi",
+        "description": "Original AUTOSAR pair. start of injection. Unit must be angle"
+    },
+    {
+        "keyword": "Solenoid",
+        "abbreviation": "Soln",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Soon",
+        "abbreviation": "Soon",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Source",
+        "abbreviation": "Src",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Spare",
+        "abbreviation": "Spare",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Specific",
+        "abbreviation": "Spc",
+        "description": "Original AUTOSAR pair. for specific environmental data (stored individualy with particular failures of one project)."
+    },
+    {
+        "keyword": "Speed",
+        "abbreviation": "Spd",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Spi",
+        "abbreviation": "Spi",
+        "description": "Original AUTOSAR pair. serial peripheral interface"
+    },
+    {
+        "keyword": "Spontaneous",
+        "abbreviation": "Spo",
+        "description": "Original AUTOSAR pair. this Keyword characterizes a sudden, unexpected occurrence. E.g. a not pre-arranged catalyst regeneration phase."
+    },
+    {
+        "keyword": "Sport",
+        "abbreviation": "Spt",
+        "description": "Original AUTOSAR pair. Related to the (short- and long term) detection of driver type either an economic/comfort oriented or a sportive/ power requesting driver can be distinguished."
+    },
+    {
+        "keyword": "Spring",
+        "abbreviation": "Sprg",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Square",
+        "abbreviation": "Sq",
+        "description": "Original AUTOSAR pair. the Keyword SQ is used ot describe the relationship of a Functional Data to the arithmetic procedure of multiplication of a value with itself."
+    },
+    {
+        "keyword": "Squared",
+        "abbreviation": "Sqd",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Ssm",
+        "abbreviation": "Ssm",
+        "description": "Original AUTOSAR pair. Stand Still Manager"
+    },
+    {
+        "keyword": "Stability",
+        "abbreviation": "Staby",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Stabilization",
+        "abbreviation": "Stabn",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Stabilizer",
+        "abbreviation": "Stabr",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Stable",
+        "abbreviation": "Stab",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Stage",
+        "abbreviation": "Stg",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Stall",
+        "abbreviation": "Stall",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Stalling",
+        "abbreviation": "Stallg",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Stamp",
+        "abbreviation": "Stamp",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Standard",
+        "abbreviation": "Std",
+        "description": "Original AUTOSAR pair. Signals that are computed by a model, offset compensated and/or filtered, which can be combination of more than one base signals."
+    },
+    {
+        "keyword": "Standardization",
+        "abbreviation": "Stdn",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Standby",
+        "abbreviation": "Stb",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Start",
+        "abbreviation": "Strt",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Starter",
+        "abbreviation": "Strtr",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Starting",
+        "abbreviation": "Strtg",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "State",
+        "abbreviation": "St",
+        "description": "Original AUTOSAR pair. Redefinition of the old keyword STATE (created before 1995), to suiting the use of describing states of an states automaton. Unit is [-]."
+    },
+    {
+        "keyword": "Static",
+        "abbreviation": "Stat",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Stationary",
+        "abbreviation": "Staty",
+        "description": "Original AUTOSAR pair. This keyword is used to describe a situation, where a movable part is at rest or a certain condition does not change"
+    },
+    {
+        "keyword": "Statistic",
+        "abbreviation": "Stc",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Status",
+        "abbreviation": "Sts",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Steering",
+        "abbreviation": "Steer",
+        "description": "Original AUTOSAR pair. This keyword is used to express the steering of a car."
+    },
+    {
+        "keyword": "Step",
+        "abbreviation": "Step",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Steradian",
+        "abbreviation": "Srad",
+        "description": "Original AUTOSAR pair. As a unit of measure for solid angle"
+    },
+    {
+        "keyword": "Stiffness",
+        "abbreviation": "Stfn",
+        "description": "Original AUTOSAR pair. stiffness is the grade of hardness of a material, e.g. in a damper: it is composed of a spring (stiffness part: force proportional to displacement) and a fluid friction (viscous part: force proportional to speed)"
+    },
+    {
+        "keyword": "Stimulation",
+        "abbreviation": "Sti",
+        "description": "Original AUTOSAR pair. The stimulation describes the inputs for testing of functions."
+    },
+    {
+        "keyword": "Stoichiometric",
+        "abbreviation": "Stoi",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Stop",
+        "abbreviation": "Stop",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Store",
+        "abbreviation": "Store",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Strategy",
+        "abbreviation": "Stgy",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Stratified",
+        "abbreviation": "Strat",
+        "description": "Original AUTOSAR pair. stratified. this keyword is used to describe the method of stratified injection in a general way (in all variants it may occur). Stratified injection means: only a small amout of fuel deposited to the spark plug is being burned, all other areas in the cylinder have a"
+    },
+    {
+        "keyword": "Stroke",
+        "abbreviation": "Stk",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Structure",
+        "abbreviation": "Struct",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Stuck",
+        "abbreviation": "Stuck",
+        "description": "Original AUTOSAR pair. the keyword STUCK is used to express e.g. a \"stuck reading\" coolant temperature sensor. This is an official expression of the CARB (Californian Air Resources Board) and is used in term of OBD II requirements."
+    },
+    {
+        "keyword": "Substitute",
+        "abbreviation": "Sub",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Subtractive",
+        "abbreviation": "Subt",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Subtype",
+        "abbreviation": "Subtyp",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Suction",
+        "abbreviation": "Suctn",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Sulphur",
+        "abbreviation": "Su",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Sum",
+        "abbreviation": "Sum",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Supercharger",
+        "abbreviation": "Scha",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Superior",
+        "abbreviation": "Sup",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Supplementary",
+        "abbreviation": "Sppl",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Supply",
+        "abbreviation": "Sply",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Suppress",
+        "abbreviation": "Supp",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Surge",
+        "abbreviation": "Surge",
+        "description": "Original AUTOSAR pair. surging, surge line. this keyword is used to describe the appearance of surging effects in an (air-)stream, e.g. at the surge line of a turbocharger (which is a characteristic parameter)"
+    },
+    {
+        "keyword": "Suspension",
+        "abbreviation": "Susp",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Suspicion",
+        "abbreviation": "Suspc",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Swirl",
+        "abbreviation": "Swirl",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Switch",
+        "abbreviation": "Swt",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Switchable",
+        "abbreviation": "Swil",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Symptom",
+        "abbreviation": "Sym",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Synchronization",
+        "abbreviation": "Syncn",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Synchronize",
+        "abbreviation": "Sync",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Synchronized",
+        "abbreviation": "Syncd",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "System",
+        "abbreviation": "Sys",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Table",
+        "abbreviation": "Tbl",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Tank",
+        "abbreviation": "Tank",
+        "description": "Original AUTOSAR pair. this keyword is used to express the container of a liquid e.g. the fuel tank"
+    },
+    {
+        "keyword": "Target",
+        "abbreviation": "Tar",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Tau",
+        "abbreviation": "Tau",
+        "description": "Original AUTOSAR pair. Time constant of a control sys. (-> P, I, D!)"
+    },
+    {
+        "keyword": "Tdc",
+        "abbreviation": "Tdc",
+        "description": "Original AUTOSAR pair. top dead center"
+    },
+    {
+        "keyword": "Telematics",
+        "abbreviation": "Telm",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Temperature",
+        "abbreviation": "T",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Temporary",
+        "abbreviation": "Tmp",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Term",
+        "abbreviation": "Term",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Test",
+        "abbreviation": "Test",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Theft",
+        "abbreviation": "Thft",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Theoretical",
+        "abbreviation": "Theo",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Thermal",
+        "abbreviation": "Therm",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Thermo",
+        "abbreviation": "Thermo",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Thermostat",
+        "abbreviation": "Th",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Three",
+        "abbreviation": "Three",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Threshold",
+        "abbreviation": "Thd",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Throttle",
+        "abbreviation": "Thr",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Tightness",
+        "abbreviation": "Tgtnss",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Time",
+        "abbreviation": "Ti",
+        "description": "Original AUTOSAR pair. Time, duration"
+    },
+    {
+        "keyword": "Timer",
+        "abbreviation": "Tmr",
+        "description": "Original AUTOSAR pair. this keyword is used to express a timer. A timer is counter for a defined time span."
+    },
+    {
+        "keyword": "Tinting",
+        "abbreviation": "Tintg",
+        "description": "Original AUTOSAR pair. Action of changing the color of an object"
+    },
+    {
+        "keyword": "Tip",
+        "abbreviation": "Tip",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Tire",
+        "abbreviation": "Tire",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Titanium",
+        "abbreviation": "Tit",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Tn",
+        "abbreviation": "Tn",
+        "description": "Original AUTOSAR pair. time constant for discrete control structures. This keyword is used in control engineering context as time constant for discrete control structures"
+    },
+    {
+        "keyword": "To",
+        "abbreviation": "To",
+        "description": "Original AUTOSAR pair. toward something,….."
+    },
+    {
+        "keyword": "Toggle",
+        "abbreviation": "Tog",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Tolerance",
+        "abbreviation": "Tolr",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Tooth",
+        "abbreviation": "Tooth",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Top",
+        "abbreviation": "Top",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Torque",
+        "abbreviation": "Tq",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Torsion",
+        "abbreviation": "Tors",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Total",
+        "abbreviation": "Tot",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Tout",
+        "abbreviation": "Tout",
+        "description": "Original AUTOSAR pair. time out"
+    },
+    {
+        "keyword": "Traction",
+        "abbreviation": "Trac",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Trailer",
+        "abbreviation": "Trlr",
+        "description": "Original AUTOSAR pair. a wheeled but not motorized vehicle which can be pulled by a motorized vehicle"
+    },
+    {
+        "keyword": "Transfer",
+        "abbreviation": "Trf",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Transient",
+        "abbreviation": "Tra",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Transition",
+        "abbreviation": "Tran",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Transmission",
+        "abbreviation": "Trsm",
+        "description": "Original AUTOSAR pair. In a mechanical context"
+    },
+    {
+        "keyword": "Transmit",
+        "abbreviation": "Tx",
+        "description": "Original AUTOSAR pair. In a communication protocol context"
+    },
+    {
+        "keyword": "Transversal",
+        "abbreviation": "Trv",
+        "description": "Original AUTOSAR pair. transversal in opposite to longitudinal. e.g. used for acceleration"
+    },
+    {
+        "keyword": "Trap",
+        "abbreviation": "Trap",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Trapping",
+        "abbreviation": "Trapg",
+        "description": "Original AUTOSAR pair. In case of scavenging the total fresh gas flowing into the cylinder is bigger than the mass air flow staying in the cylinder. The ratio of the mass air flow in the cylinder to the total mass air flow is called TRAPPING efficiency (EFF_TRAP)"
+    },
+    {
+        "keyword": "Travel",
+        "abbreviation": "Trvl",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Travelled",
+        "abbreviation": "Trvld",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Treatment",
+        "abbreviation": "Treat",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Trigger",
+        "abbreviation": "Trig",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Trip",
+        "abbreviation": "Trip",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Trouble",
+        "abbreviation": "Tro",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Trunk",
+        "abbreviation": "Tr",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Tube",
+        "abbreviation": "Tube",
+        "description": "Original AUTOSAR pair. the keyword TUBE expresses any kind of a pipe, for instance the exhaust ."
+    },
+    {
+        "keyword": "Tumble",
+        "abbreviation": "Tumb",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Tuning",
+        "abbreviation": "Tun",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Turbine",
+        "abbreviation": "Trb",
+        "description": "Original AUTOSAR pair. To describe a turbine (turbine wheel) in general, e.g. in a hydraulic torque converter or in a turbocharger"
+    },
+    {
+        "keyword": "Turbulence",
+        "abbreviation": "Trbl",
+        "description": "Original AUTOSAR pair. Flow regime characterized by chaotic stochastic property changes"
+    },
+    {
+        "keyword": "Two",
+        "abbreviation": "Two",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Type",
+        "abbreviation": "Typ",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Uds",
+        "abbreviation": "Uds",
+        "description": "Original AUTOSAR pair. Unified Diagnostic Services. UDS (Unified Diagnostic Services) is a new world-wide standard for Diagnostics according to ISO14229-1"
+    },
+    {
+        "keyword": "Unfavourable",
+        "abbreviation": "Unfav",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Unit",
+        "abbreviation": "Unit",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Unlock",
+        "abbreviation": "Unlck",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Up",
+        "abbreviation": "Up",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Update",
+        "abbreviation": "Upd",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Upper",
+        "abbreviation": "Uppr",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Upstream",
+        "abbreviation": "Us",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Use",
+        "abbreviation": "Use",
+        "description": "Original AUTOSAR pair. compiler switch"
+    },
+    {
+        "keyword": "User",
+        "abbreviation": "Usr",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Vacuum",
+        "abbreviation": "Vac",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Vag",
+        "abbreviation": "Vag",
+        "description": "Original AUTOSAR pair. vag tester protocol"
+    },
+    {
+        "keyword": "Valid",
+        "abbreviation": "Vld",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Validity",
+        "abbreviation": "Vldy",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Value",
+        "abbreviation": "Val",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Valve",
+        "abbreviation": "Vlv",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Vapor",
+        "abbreviation": "Vap",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Variable",
+        "abbreviation": "Var",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Variance",
+        "abbreviation": "Vari",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Variant",
+        "abbreviation": "Vrnt",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Vcc",
+        "abbreviation": "Vcc",
+        "description": "Original AUTOSAR pair. supply voltage"
+    },
+    {
+        "keyword": "Vcv",
+        "abbreviation": "Vcv",
+        "description": "Original AUTOSAR pair. high pressure pump volume control valve"
+    },
+    {
+        "keyword": "Vector",
+        "abbreviation": "Vect",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Vehicle",
+        "abbreviation": "Veh",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Velocity",
+        "abbreviation": "V",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Vent",
+        "abbreviation": "Vent",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Ventilation",
+        "abbreviation": "Ventn",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Version",
+        "abbreviation": "Vers",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Vertical",
+        "abbreviation": "Vert",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Vin",
+        "abbreviation": "Vin",
+        "description": "Original AUTOSAR pair. vehicle identification number. this keyword is used to describe the vehicle identification number. This is certain code which is unique for every vehicle and is used for its identification."
+    },
+    {
+        "keyword": "Virtual",
+        "abbreviation": "Virt",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Viscousity",
+        "abbreviation": "Vcos",
+        "description": "Original AUTOSAR pair. viscosity describes the thickness of a fluid, e.g. in a damper: it is composed of a spring (stiffness part: force proportional to displacement) and a fluid friction (viscous part: force proportional to speed)"
+    },
+    {
+        "keyword": "Visibility",
+        "abbreviation": "Visy",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Visual",
+        "abbreviation": "Vis",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Volt",
+        "abbreviation": "Volt",
+        "description": "Original AUTOSAR pair. As unit of measure for voltage"
+    },
+    {
+        "keyword": "Voltage",
+        "abbreviation": "U",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Volume",
+        "abbreviation": "Vol",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Volumetric",
+        "abbreviation": "Volmc",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Wait",
+        "abbreviation": "Wait",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Warm",
+        "abbreviation": "Wrm",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Warning",
+        "abbreviation": "Warn",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Washer",
+        "abbreviation": "Wshr",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Washing",
+        "abbreviation": "Wshng",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Water",
+        "abbreviation": "Wtr",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Watt",
+        "abbreviation": "Watt",
+        "description": "Original AUTOSAR pair. As unit of measure for power"
+    },
+    {
+        "keyword": "Way",
+        "abbreviation": "Way",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Wheel",
+        "abbreviation": "Whl",
+        "description": "Original AUTOSAR pair. Describes the component of the vehicle. Different to the somewhat confusing existing keyword \"Wheel\", there is no relation to the physical meaning."
+    },
+    {
+        "keyword": "Wide",
+        "abbreviation": "Wide",
+        "description": "Original AUTOSAR pair. keyword is used to gear box type, specify which is distinguished via variant coding (wide ratio: long transmission ratio for lower rpm. closed ratio: sports transmission ratio)"
+    },
+    {
+        "keyword": "Width",
+        "abbreviation": "Width",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Window",
+        "abbreviation": "Win",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Windscreen",
+        "abbreviation": "Wind",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Wiper",
+        "abbreviation": "Wipr",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Wiping",
+        "abbreviation": "Wipg",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Wish",
+        "abbreviation": "Wish",
+        "description": "Original AUTOSAR pair. Describes the component of the vehicle. Different to the somewhat confusing existing keyword \"Wheel\", there is no relation to the physical meaning."
+    },
+    {
+        "keyword": "With",
+        "abbreviation": "With",
+        "description": "Original AUTOSAR pair. preposition"
+    },
+    {
+        "keyword": "Within",
+        "abbreviation": "Within",
+        "description": "Original AUTOSAR pair. preposition"
+    },
+    {
+        "keyword": "Without",
+        "abbreviation": "Wout",
+        "description": "Original AUTOSAR pair. preposition"
+    },
+    {
+        "keyword": "Word",
+        "abbreviation": "Word",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Work",
+        "abbreviation": "W",
+        "description": "Original AUTOSAR pair. Energy"
+    },
+    {
+        "keyword": "Write",
+        "abbreviation": "Wr",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Wrong",
+        "abbreviation": "Wrg",
+        "description": "Original AUTOSAR pair. in opposite to ERR, the keyword WRG is used to express a mismatch which does not have to be treated by error management diagnosis."
+    },
+    {
+        "keyword": "Yaw",
+        "abbreviation": "Yaw",
+        "description": "Original AUTOSAR pair."
+    },
+    {
+        "keyword": "Zero",
+        "abbreviation": "Zero",
+        "description": "Original AUTOSAR pair. used to express the number zero"
+    }
+]

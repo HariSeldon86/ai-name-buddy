@@ -1,0 +1,30 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+# environment variables
+.env
+
+# IDE specific files
+.vscode/
+.idea/
+
+# Database files
+*.db
+chroma*/
+
+# Temp files
+*.log
+*.tmp
+*.temp
+temp.*
+
+# Documentation
+GEMINI.md

@@ -1,0 +1,16 @@
+[project]
+name = "ai-name-buddy"
+version = "0.1.0"
+description = "AI Name Buddy is a command-line tool that leverages the power of Large Language Models (LLMs) and a sophisticated agentic system to help you create standardized technical abbreviations and descriptions for new keywords. This tool is designed to ensure consistency and relevance in your project's naming conventions."
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "langchain>=1.0.3",
+    "langchain-chroma>=1.0.0",
+    "langchain-community>=0.4.1",
+    "langchain-core>=1.0.3",
+    "langchain-ollama>=1.0.0",
+    "pydantic>=2.12.3",
+    "pydantic-settings>=2.11.0",
+    "rich>=14.2.0",
+]
